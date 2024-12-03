@@ -1,0 +1,5164 @@
+[{
+  "searchString": "has happy hour",
+  "rank": 35,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Berkeley Alley Beer Co - Enter in \"The Alley\"",
+  "description": "Microbrewery serving its unique & bold housemade beers in a relaxed & modern tap room.",
+  "price": null,
+  "categoryName": "Brewery",
+  "address": "4342 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4342 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.berkeleyalleybeer.com/",
+  "phone": "(303) 455-4267",
+  "phoneUnformatted": "+13034554267",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.776061,
+    "lng": -105.043509
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJcxvcqYSHa4cRrXeOrBXD_oE",
+  "categories": [
+    "Brewery",
+    "Bar"
+  ],
+  "fid": "0x876b8784a9dc1b73:0x81fec315ac8e77ad",
+  "cid": "9367138772833957805",
+  "reviewsCount": 218,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 0,
+    "threeStar": 4,
+    "fourStar": 15,
+    "fiveStar": 194
+  },
+  "imagesCount": 113,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:58.710Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "3 to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "3 to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "3 to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "1 to 8 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Delivery": false
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Gender-neutral restroom": true
+      }
+    ],
+    "Crowd": [
+      {
+        "LGBTQ+ friendly": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Berkeley%20Alley%20Beer%20Co%20-%20Enter%20in%20%22The%20Alley%22&query_place_id=ChIJcxvcqYSHa4cRrXeOrBXD_oE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN69pXfjs0ebQLXA5Jo6ogZQpqOgW5ik7e39UhD=w426-h240-k-no",
+  "kgmid": "/g/1hjgtvjt5",
+  "domain": "berkeleyalleybeer.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [
+    "(303)455-4267",
+    "303.455.4267"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "http://instagram.com/berkeleyalleybeer"
+  ],
+  "facebooks": [
+    "http://facebook.com/berkeleyalleybeer",
+    "https://www.facebook.com/berkeleyalleybeer"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 35,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Call to Arms Brewing Company",
+  "description": "Brewery taproom serving housemade craft beer in a publike setting with retractable garage doors.",
+  "price": "$",
+  "categoryName": "Brewery",
+  "address": "4526 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4526 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.calltoarmsbrewing.com/",
+  "phone": "(720) 328-8258",
+  "phoneUnformatted": "+17203288258",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7789108,
+    "lng": -105.0436011
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJg6lFKYWHa4cRJbp9ZoNPN4c",
+  "categories": [
+    "Brewery"
+  ],
+  "fid": "0x876b87852945a983:0x87374f83667dba25",
+  "cid": "9743343744618183205",
+  "reviewsCount": 373,
+  "reviewsDistribution": {
+    "oneStar": 10,
+    "twoStar": 5,
+    "threeStar": 5,
+    "fourStar": 53,
+    "fiveStar": 300
+  },
+  "imagesCount": 224,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:56.707Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "3 to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "2 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 9 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Onsite services": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Call%20to%20Arms%20Brewing%20Company&query_place_id=ChIJg6lFKYWHa4cRJbp9ZoNPN4c",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMDz5OfoexFZ0fCt9kFWgcGR5_0Q-LBLUOMDILk=w408-h276-k-no",
+  "kgmid": "/g/11c3kqy5ws",
+  "domain": "calltoarmsbrewing.com",
+  "emails": [
+    "chris@calltoarmsbrewing.com"
+  ],
+  "phones": [
+    "+17203288258"
+  ],
+  "phonesUncertain": [
+    "328-8258"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/calltoarmsbrewing"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/354985434644199"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 31,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "KALAKA MEXICAN KITCHEN-BERKELEY",
+  "price": null,
+  "categoryName": "Bar",
+  "address": "4528 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4528 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.kalakamexicankitchen.com/",
+  "phone": "(303) 997-6444",
+  "phoneUnformatted": "+13039976444",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7789247,
+    "lng": -105.0438559
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ58l9eIKHa4cR5lNiKcna1Vs",
+  "categories": [
+    "Bar",
+    "Mexican restaurant",
+    "Brunch restaurant",
+    "Family restaurant",
+    "Taco restaurant"
+  ],
+  "fid": "0x876b8782787dc9e7:0x5bd5dac9296253e6",
+  "cid": "6617435785008403430",
+  "reviewsCount": 219,
+  "reviewsDistribution": {
+    "oneStar": 11,
+    "twoStar": 8,
+    "threeStar": 10,
+    "fourStar": 22,
+    "fiveStar": 168
+  },
+  "imagesCount": 120,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:56.706Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 9 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegan options": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Counter service": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ],
+    "Pets": [
+      {
+        "Dogs allowed": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=KALAKA%20MEXICAN%20KITCHEN-BERKELEY&query_place_id=ChIJ58l9eIKHa4cR5lNiKcna1Vs",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMjr2UMtNeSEfHcjlRP4mbNfEweu5WoaANKNjOG=w408-h544-k-no",
+  "kgmid": "/g/11tms90946",
+  "domain": "kalakamexicankitchen.com",
+  "emails": [],
+  "phones": [
+    "(303) 862-7777",
+    "(303) 997-6444"
+  ],
+  "phonesUncertain": [
+    "5740478",
+    "202411252031279",
+    "2280607863",
+    "27145234799511",
+    "8556-202411",
+    "202402062027208",
+    "(303) 862-7777",
+    "(303) 997-6444",
+    "202411112222591"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 27,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "PARISI pizzeria, trattoria e vino",
+  "description": "Casual Italian spot for thin-crust pies & housemade pastas, with a more formal trattoria downstairs.",
+  "price": "$$",
+  "categoryName": "Bar",
+  "address": "4401 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4401 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.parisidenver.com/",
+  "phone": "(303) 561-0234",
+  "phoneUnformatted": "+13035610234",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.776712,
+    "lng": -105.044178
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJkbxSTJuHa4cRxEiouxnnq2c",
+  "categories": [
+    "Bar",
+    "Italian restaurant",
+    "Espresso bar",
+    "Gourmet grocery store",
+    "Takeout Restaurant",
+    "Pizza restaurant",
+    "Pizza Takeout"
+  ],
+  "fid": "0x876b879b4c52bc91:0x67abe719bba848c4",
+  "cid": "7470318504632666308",
+  "reviewsCount": 1728,
+  "reviewsDistribution": {
+    "oneStar": 50,
+    "twoStar": 31,
+    "threeStar": 81,
+    "fourStar": 246,
+    "fiveStar": 1320
+  },
+  "imagesCount": 643,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:56.706Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 8 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Onsite services": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great coffee": true
+      },
+      {
+        "Great dessert": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=PARISI%20pizzeria%2C%20trattoria%20e%20vino&query_place_id=ChIJkbxSTJuHa4cRxEiouxnnq2c",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOdNAHAkkh8tCQgaMUKMbOfK1v2Kd85DamIJrfX=w408-h544-k-no",
+  "kgmid": "/g/1tf1p9zj",
+  "domain": "parisidenver.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 11,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Sushi Bay",
+  "description": "Airy, sleek Japanese bistro focusing on classic sushi rolls served with wine & beer.",
+  "price": "$$",
+  "categoryName": "Sushi restaurant",
+  "address": "3877 Tennyson St #2107, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "3877 Tennyson St #2107",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://sushibayco.com/",
+  "phone": "(303) 477-5489",
+  "phoneUnformatted": "+13034775489",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7706363,
+    "lng": -105.0442118
+  },
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJS-XU-HeHa4cRWv--AHypk1Y",
+  "categories": [
+    "Sushi restaurant",
+    "Asian restaurant",
+    "Bar",
+    "Japanese restaurant",
+    "Restaurant"
+  ],
+  "fid": "0x876b8777f8d4e54b:0x5693a97c00beff5a",
+  "cid": "6238516258891824986",
+  "reviewsCount": 517,
+  "imagesCount": 315,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:56.551Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 9:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 9:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 9 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Great tea selection": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "All you can eat": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Healthy options": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sushi%20Bay&query_place_id=ChIJS-XU-HeHa4cRWv--AHypk1Y",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNTwP_rjfN0BFTOeortAFGa-U5U4TbhJzY8nCss=w408-h291-k-no",
+  "kgmid": "/g/1hdzdzs07",
+  "domain": "sushibayco.com",
+  "emails": [],
+  "phones": [
+    "303-477-5489"
+  ],
+  "phonesUncertain": [
+    "303-477-5489"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 24,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Vin Rouge Wine Bar & Tasting Room",
+  "price": null,
+  "categoryName": "Wine bar",
+  "address": "4412 Yates St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4412 Yates St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.vinrougewinebar.com/",
+  "phone": "(720) 502-2131",
+  "phoneUnformatted": "+17205022131",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7768429,
+    "lng": -105.0506941
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJCwc5f56Ha4cR8mHp-1k8E7o",
+  "categories": [
+    "Wine bar"
+  ],
+  "fid": "0x876b879e7f39070b:0xba133c59fbe961f2",
+  "cid": "13408126872788230642",
+  "reviewsCount": 127,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 4,
+    "threeStar": 3,
+    "fourStar": 3,
+    "fiveStar": 115
+  },
+  "imagesCount": 146,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:56.706Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/Zkw9RAzQ6lk?source=pa&opi=79508299&hl=en-US&gei=uz5OZ8-EO4DCkPIPpIzj0QU&sourceurl=https://www.google.com/search?authuser%3D0%26tbm%3Dmap%26q%3Dhappy%2Bhour%2Bdrinks%26psi%3DuT5OZ_r6LNifkPIPiNzi2QM.1733181115622.1%26pb%3D!4m12!1m3!1d3066.3553792563775!2d-105.04352217928057!3d39.776579399999996!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!8i0!10b1!12m36!1m1!18b1!2m3!5m1!6e2!20e3!6m18!4b1!49b1!63m0!73m0!74i150000!75b1!85b1!89b1!91b1!101i97!110m0!114b1!149b1!171b1!176f8!179f90!182b1!183m0!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1suT5OZ_r6LNifkPIPiNzi2QM!2s1i:0,t:20588,p:uT5OZ_r6LNifkPIPiNzi2QM:22!4m1!2i20588!7e81!12e3!24m92!1m26!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m15!3b1!4b1!5b1!6b1!13b1!14b1!15b1!17b1!21b1!22b0!25b1!27m1!1b0!28b0!31b0!2b1!5m5!2b1!5b1!6b1!7b1!10b1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m17!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m8!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!9b1!89b1!103b1!113b1!117b1!122m1!1b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!31b1!34m19!2b1!3b1!4b1!6b1!7b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!46m1!1e10!47m0!49m7!3b1!6m2!1b1!2b1!7m2!1e3!2b1!50m25!1m21!2m7!1u3!4zT3RldsWZZW7DqQ!5e1!9s0ahUKEwisjvnkmoqKAxXYD0QIHQiuODsQ_KkBCPYGKBc!10m2!3m1!1e1!2m7!1u2!4zTmVqbMOpcGUgaG9kbm9jZW7DqQ!5e1!9s0ahUKEwisjvnkmoqKAxXYD0QIHQiuODsQ_KkBCPUGKBY!10m2!2m1!1e1!3m1!1u2!3m1!1u3!4BIAE!2e2!3m1!3b1!59BQ2dBd0Fn!61b1!67m3!7b1!10b1!14b0!69i675",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "4 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "2 to 8 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Service options": [
+      {
+        "Curbside pickup": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great wine list": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Gender-neutral restroom": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Vin%20Rouge%20Wine%20Bar%20%26%20Tasting%20Room&query_place_id=ChIJCwc5f56Ha4cR8mHp-1k8E7o",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNi5gIZQOzG9jI9Hry4axgpGJ_16ZNWYAaEUAcX=w408-h535-k-no",
+  "kgmid": "/g/11j3rr_qlk",
+  "domain": "vinrougewinebar.com",
+  "emails": [
+    "jenn@vinrougewinebar.com"
+  ],
+  "phones": [
+    "720.502.2131"
+  ],
+  "phonesUncertain": [
+    "720.502.2131"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "https://twitter.com/vinrougewinebar"
+  ],
+  "instagrams": [
+    "https://www.instagram.com/vinrougewinebar/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/VinRougeWineBar"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Two Hands",
+  "price": "$20–30",
+  "categoryName": "Restaurant",
+  "address": "3985 Tennyson St Suite 120, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "3985 Tennyson St Suite 120",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.twohandshospitality.com/location/two-hands-denver/",
+  "phone": "(720) 927-9272",
+  "phoneUnformatted": "+17209279272",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7727206,
+    "lng": -105.0443717
+  },
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ9aqJfgCHa4cRsTopDLpSbcU",
+  "categories": [
+    "Restaurant",
+    "Australian restaurant",
+    "Breakfast restaurant",
+    "Brunch restaurant",
+    "Cocktail bar",
+    "Coffee shop",
+    "Lunch restaurant"
+  ],
+  "fid": "0x876b87007e89aaf5:0xc56d52ba0c293ab1",
+  "cid": "14226117756954688177",
+  "reviewsCount": 113,
+  "imagesCount": 206,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:56.550Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/3YKfswsK3Eg?source=pa&opi=79508299&hl=en-US&gei=uT5OZ-__J7-mptQPsJvh2Aw&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dhas%2Bhappy%2Bhour%26tbm%3Dmap",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 9 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Great coffee": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegan options": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Gender-neutral restroom": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "Has changing table(s)": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Two%20Hands&query_place_id=ChIJ9aqJfgCHa4cRsTopDLpSbcU",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM9XB_GDymf4MSR7x7DgCQSikvCYlsAKIyzAKBk=w408-h272-k-no",
+  "kgmid": "/g/11y48xhptm",
+  "domain": "twohandshospitality.com",
+  "emails": [
+    "denver@twohandshospitality.com"
+  ],
+  "phones": [
+    "(720) 927-9272"
+  ],
+  "phonesUncertain": [
+    "(720) 927-9272"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/twohandsrestaurant/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/TwoHandsRestaurant"
+  ],
+  "youtubes": [],
+  "tiktoks": [
+    "https://www.tiktok.com/@twohandsrestaurant"
+  ],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 9,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Plaza 38 - Bar and Food Hall",
+  "price": null,
+  "categoryName": "Bar",
+  "address": "3550 W 38th Ave #98, Denver, CO 80211",
+  "neighborhood": "West Highland",
+  "street": "3550 W 38th Ave #98",
+  "city": "Denver",
+  "postalCode": "80211",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://bar38denver.com/",
+  "phone": "(303) 458-1038",
+  "phoneUnformatted": "+13034581038",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7693434,
+    "lng": -105.0331889
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJtWH4abmHa4cRMrYiM5rG59U",
+  "categories": [
+    "Bar",
+    "Karaoke",
+    "Live music venue",
+    "Sports bar"
+  ],
+  "fid": "0x876b87b969f861b5:0xd5e7c69a3322b632",
+  "cid": "15413506615283988018",
+  "reviewsCount": 190,
+  "imagesCount": 50,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:56.551Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6:30 AM to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6:30 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6:30 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6:30 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6:30 AM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6:30 AM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6:30 AM to 9 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Karaoke": true
+      },
+      {
+        "Live music": true
+      },
+      {
+        "Live performances": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Dancing": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Plaza%2038%20-%20Bar%20and%20Food%20Hall&query_place_id=ChIJtWH4abmHa4cRMrYiM5rG59U",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM5EHi-bu__Rg9CcjSP9xE4ltLq4PhRWoZogks=w408-h544-k-no",
+  "kgmid": "/g/11h8fzb6t4",
+  "domain": "bar38denver.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [
+    "(303) 350-2650"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/bar38denver/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/Bar38Denver/"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 14,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "The Grateful Gnome Sandwich Shoppe & Brewery",
+  "description": "Industrial-chic brewery & taproom pouring about a dozen craft beers to pair with some 50 sandwiches.",
+  "price": "$10–20",
+  "categoryName": "Brewpub",
+  "address": "4369 Stuart St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4369 Stuart St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.thegratefulgnome.com/",
+  "phone": "(720) 598-6863",
+  "phoneUnformatted": "+17205986863",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.776517,
+    "lng": -105.0432799
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZyPtpYSHa4cRhKIl_QldXPo",
+  "categories": [
+    "Brewpub",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "fid": "0x876b8784a5ed2367:0xfa5c5d09fd25a284",
+  "cid": "18040396504822555268",
+  "reviewsCount": 1411,
+  "imagesCount": 616,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:55.225Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 10 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Onsite services": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Live performances": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trending": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Grateful%20Gnome%20Sandwich%20Shoppe%20%26%20Brewery&query_place_id=ChIJZyPtpYSHa4cRhKIl_QldXPo",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPxIixFiYrD_k-ofUWFkvuIHIxtuGjR5BBOhNMS=w408-h306-k-no",
+  "kgmid": "/g/11dzx03ct2",
+  "domain": "thegratefulgnome.com",
+  "emails": [
+    "info@thegratefulgnome.com"
+  ],
+  "phones": [
+    "720-598-6863"
+  ],
+  "phonesUncertain": [
+    "720-598-6863"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "https://twitter.com/GnomeBeer"
+  ],
+  "instagrams": [
+    "https://www.instagram.com/thegrateful.gnome/"
+  ],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 20,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Hops & Pie",
+  "description": "Cozy pizzeria featuring unusual toppings (including myriad veggie options) & rotating craft brews.",
+  "price": "$10–20",
+  "categoryName": "Pizza restaurant",
+  "address": "3920 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "3920 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.hopsandpie.com/",
+  "phone": "(303) 477-7000",
+  "phoneUnformatted": "+13034777000",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7713884,
+    "lng": -105.0437324
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJLz1VrIKHa4cRytFIEWvCQTM",
+  "categories": [
+    "Pizza restaurant",
+    "Bar & grill",
+    "Beer hall",
+    "Pub",
+    "Restaurant"
+  ],
+  "fid": "0x876b8782ac553d2f:0x3341c26b1148d1ca",
+  "cid": "3693446934527791562",
+  "reviewsCount": 2268,
+  "imagesCount": 971,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:55.228Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "3 to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 8 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Fireplace": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Gender-neutral restroom": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      },
+      {
+        "Usually a wait": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hops%20%26%20Pie&query_place_id=ChIJLz1VrIKHa4cRytFIEWvCQTM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPRxmDcGk_4jkd5g0idDKFid3IVvEsMbjF1H0wY=w408-h306-k-no",
+  "kgmid": "/g/1tlndybr",
+  "domain": "hopsandpie.com",
+  "emails": [
+    "leah@hopsandpie.com",
+    "info@hopsandpie.com",
+    "emily@etpryall.com"
+  ],
+  "phones": [
+    "+13034777000"
+  ],
+  "phonesUncertain": [
+    "60185210",
+    "601852393",
+    "1612206649793",
+    "1612215597082",
+    "05440243314",
+    "1612206650888",
+    "531468531468531",
+    "588022969647251",
+    "6018525",
+    "1612206686183",
+    "1612206778423",
+    "1612206687507",
+    "1043043",
+    "6018674",
+    "601856699",
+    "(303) 379-1734",
+    "(303) 477-7000",
+    "1571063926463",
+    "1573209958557",
+    "1571063928907",
+    "10748178545",
+    "1612205318432",
+    "1612209233098",
+    "1612205318440",
+    "1612205736954",
+    "1612213878230",
+    "1612205737660",
+    "465034965034965",
+    "372764561115668",
+    "60188723277"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/hopsandpiedenver/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/HopsandPieCO"
+  ],
+  "youtubes": [
+    "https://www.youtube.com/watch?v=QfjMNp_1UYo"
+  ],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 8,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "OK Yeah",
+  "price": "$50–100",
+  "categoryName": "Cocktail bar",
+  "address": "4337 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4337 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.hk-oy.com/",
+  "phone": "(720) 778-2977",
+  "phoneUnformatted": "+17207782977",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7754357,
+    "lng": -105.0443121
+  },
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJL6za5MWHa4cR39AeXCN8pVk",
+  "categories": [
+    "Cocktail bar"
+  ],
+  "fid": "0x876b87c5e4daac2f:0x59a57c235c1ed0df",
+  "cid": "6459705731844067551",
+  "reviewsCount": 22,
+  "imagesCount": 9,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:55.223Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/i8GQcrEQAzQ?source=pa&opi=79508299&hl=en-US&gei=uT5OZ-zNL9ifkPIPiNzi2QM&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dhappy%2Bhour%2Bdrinks%26tbm%3Dmap",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      },
+      {
+        "Takeout": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great cocktails": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=OK%20Yeah&query_place_id=ChIJL6za5MWHa4cR39AeXCN8pVk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOBfCZGLM9EeyuQ4V_51ufn-5PTYvNpN3GVwCLJ=w408-h306-k-no",
+  "kgmid": "/g/11vhynb6q7",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Berkeley Inn",
+  "description": "Long-running local haunt offering drink specials, pool tables & karaoke in no-frills surrounds.",
+  "price": "$10–20",
+  "categoryName": "Bar",
+  "address": "3834 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "3834 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.theberkeleyinn.com/",
+  "phone": "(303) 477-1834",
+  "phoneUnformatted": "+13034771834",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7700544,
+    "lng": -105.0439034
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ52EGHHiHa4cRjeuTqpl-LjU",
+  "categories": [
+    "Bar",
+    "Live music bar",
+    "Sports bar"
+  ],
+  "fid": "0x876b87781c0661e7:0x352e7e99aa93eb8d",
+  "cid": "3832139531395787661",
+  "reviewsCount": 407,
+  "imagesCount": 71,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:55.223Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10:30 AM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10:30 AM to 2 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Bar games": true
+      },
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Karaoke": true
+      },
+      {
+        "Live music": true
+      },
+      {
+        "Live performances": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Outside food allowed": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Berkeley%20Inn&query_place_id=ChIJ52EGHHiHa4cRjeuTqpl-LjU",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOCdrAjdNwFq4ua6Sjl82YKiE4Yv5YS_kE3UKy-=w408-h306-k-no",
+  "kgmid": "/g/1hf5zld6j",
+  "domain": "theberkeleyinn.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [
+    "5740478",
+    "1023365",
+    "13205202925808",
+    "202408092234455",
+    "2280607863",
+    "9596-202411",
+    "1023356",
+    "202405021601251",
+    "(000) 000-0000",
+    "000-000-0000",
+    "1023362",
+    "202405021650419"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 10,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Top Tenn Lounge",
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "4110 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4110 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.toptennlounge.com/",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7726332,
+    "lng": -105.0438273
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJHxJYW6eHa4cRixCcp24dyKM",
+  "categories": [
+    "Restaurant",
+    "Lounge"
+  ],
+  "fid": "0x876b87a75b58121f:0xa3c81d6ea79c108b",
+  "cid": "11801715184620015755",
+  "reviewsCount": 59,
+  "imagesCount": 50,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:55.224Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4 to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "2 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "2 to 8 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great cocktails": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Brunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Top%20Tenn%20Lounge&query_place_id=ChIJHxJYW6eHa4cRixCcp24dyKM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOn8-n0Y9RUlrSnMxaiLOipK6R5wuUu55d36Cex=w408-h544-k-no",
+  "kgmid": "/g/11kh_j754h",
+  "domain": "toptennlounge.com",
+  "emails": [
+    "info@toptenn.com"
+  ],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "http://instagram.com/toptenn303"
+  ],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Crow Bar",
+  "description": "Craft beer & cocktails in a brick-walled space with retro fixtures, video games & sports on TV.",
+  "price": "$",
+  "categoryName": "Bar",
+  "address": "4395 Yates St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4395 Yates St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.facebook.com/crowbardenver",
+  "phone": "(303) 862-4645",
+  "phoneUnformatted": "+13038624645",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7764791,
+    "lng": -105.0511407
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJaWPtapmHa4cRZyjRkDINoAc",
+  "categories": [
+    "Bar"
+  ],
+  "fid": "0x876b87996aed6369:0x7a00d3290d12867",
+  "cid": "549453665368352871",
+  "reviewsCount": 283,
+  "imagesCount": 69,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:55.223Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 PM to 1 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 PM to 2 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      },
+      {
+        "Takeout": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Bar games": true
+      },
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Outside food allowed": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Crow%20Bar&query_place_id=ChIJaWPtapmHa4cRZyjRkDINoAc",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOrrlppX0tzaxKyXac2iNiHym_k_oLP0KaS23Pu=w408-h306-k-no",
+  "kgmid": "/g/11cmqcn25x",
+  "domain": "facebook.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [
+    "facebook.com/crowbardenver",
+    "https://www.facebook.com/crowbardenver"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "The Tatarian",
+  "description": "Elegant, creative seasonal cocktails star at this compact, contemporary bar & lounge.",
+  "price": "$20–30",
+  "categoryName": "Cocktail bar",
+  "address": "4024 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4024 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://thetatarian.com/",
+  "phone": "(303) 416-4496",
+  "phoneUnformatted": "+13034164496",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7721171,
+    "lng": -105.0436468
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ79CDtoKHa4cRwYAWYaH3Mk8",
+  "categories": [
+    "Cocktail bar"
+  ],
+  "fid": "0x876b8782b683d0ef:0x4f32f7a1611680c1",
+  "cid": "5706895950322499777",
+  "reviewsCount": 433,
+  "imagesCount": 325,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:55.223Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "4 to 11 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      },
+      {
+        "Takeout": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great cocktails": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      },
+      {
+        "Upscale": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Tourists": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Tatarian&query_place_id=ChIJ79CDtoKHa4cRwYAWYaH3Mk8",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO1EUPcMBi3Lvd-5i358dIw8aIhN6vT96BOb1so=w408-h272-k-no",
+  "kgmid": "/g/11f3m7mb0k",
+  "domain": "thetatarian.com",
+  "emails": [
+    "info@thetatarian.com"
+  ],
+  "phones": [],
+  "phonesUncertain": [
+    "303-416-4496"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/thetatarian/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/thetatarian"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "My Boy Tony",
+  "price": "$10–20",
+  "categoryName": "Bar",
+  "address": "4280 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4280 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://myboytony.com/",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7751374,
+    "lng": -105.0438009
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPXM98TWHa4cRBig17Vdch6g",
+  "categories": [
+    "Bar"
+  ],
+  "fid": "0x876b8735f13d733d:0xa8875c57ed352806",
+  "cid": "12143776452939425798",
+  "reviewsCount": 64,
+  "imagesCount": 57,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:55.222Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "4 to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "1 PM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "1 PM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "1 to 10 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      },
+      {
+        "Takeout": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=My%20Boy%20Tony&query_place_id=ChIJPXM98TWHa4cRBig17Vdch6g",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPpmE9vlQ_9vzXzVlLu72-Uy3-0ndCLDfqScpOJ=w408-h306-k-no",
+  "kgmid": "/g/11vlchn6dh",
+  "domain": "myboytony.com",
+  "emails": [
+    "events@myboytony.com",
+    "holler@myboytony.com"
+  ],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/myboytonybar/"
+  ],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Berkeley Untapped",
+  "description": "Casual taproom highlighting local wine, beer & spirits serves bites & allows outside food too.",
+  "price": "$10–20",
+  "categoryName": "Bar",
+  "address": "4267 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4267 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://berkeleyuntapped.com/",
+  "phone": "(720) 593-1986",
+  "phoneUnformatted": "+17205931986",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7742,
+    "lng": -105.0441647
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZ5t_y5yHa4cRJsCwWoJ08cY",
+  "categories": [
+    "Bar"
+  ],
+  "fid": "0x876b879ccb7f9b67:0xc6f174825ab0c026",
+  "cid": "14335367192113102886",
+  "reviewsCount": 246,
+  "imagesCount": 133,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:55.221Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "3:30 to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "3:30 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "3:30 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "3:30 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "3:30 PM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 10 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Curbside pickup": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Bar games": true
+      },
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Sports": true
+      },
+      {
+        "Trivia night": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      },
+      {
+        "Assistive hearing loop": false
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Outside food allowed": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Gender-neutral restroom": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Pets": [
+      {
+        "Dogs allowed": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Berkeley%20Untapped&query_place_id=ChIJZ5t_y5yHa4cRJsCwWoJ08cY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNFf7MV9eREShKxypsLNrhv3jMih_wvzq2Jyaub=w408-h306-k-no",
+  "kgmid": "/g/11b5ys134l",
+  "domain": "berkeleyuntapped.com",
+  "emails": [
+    "jay@berkeleyuntapped.com"
+  ],
+  "phones": [],
+  "phonesUncertain": [
+    "8813593",
+    "8813595",
+    "1624386118343",
+    "1624386171217",
+    "1624386118836",
+    "703647416413373",
+    "555043362762715",
+    "8813597",
+    "38964844",
+    "66.639999",
+    "(720) 593-1986",
+    "54037124",
+    "133.333343",
+    "50585938"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "http://instagram.com/berkeley_untapped"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/berkeleyuntapped"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour food",
+  "rank": 16,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20food/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Wild Taco Denver - Berkeley",
+  "price": "$10–20",
+  "categoryName": "Mexican restaurant",
+  "address": "4499 W 38th Ave, Denver, CO 80212, United States",
+  "neighborhood": "Berkeley",
+  "street": "4499 W 38th Ave",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.wildtacodenver.com/",
+  "phone": "+1 720-242-7042",
+  "phoneUnformatted": "+17202427042",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7696155,
+    "lng": -105.0448627
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJDXN_xtGHa4cRO1YlWuG53qY",
+  "categories": [
+    "Mexican restaurant",
+    "Bar",
+    "Fusion restaurant",
+    "Taco restaurant"
+  ],
+  "fid": "0x876b87d1c67f730d:0xa6deb9e15a25563b",
+  "cid": "12024252432656979515",
+  "reviewsCount": 177,
+  "imagesCount": 147,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:13:24.426Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 9 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeaway": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Sport": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair-accessible car park": true
+      },
+      {
+        "Wheelchair-accessible entrance": true
+      },
+      {
+        "Wheelchair-accessible seating": true
+      },
+      {
+        "Wheelchair-accessible toilet": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy-hour drinks": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Spirits": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Toilets": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safe space": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "Has changing table(s)": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free of charge street parking": true
+      }
+    ],
+    "Pets": [
+      {
+        "Dogs allowed outside": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Wild%20Taco%20Denver%20-%20Berkeley&query_place_id=ChIJDXN_xtGHa4cRO1YlWuG53qY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOU_NaBRu8pEMEgIsBg1sPIK91EHLr0imOpyYso=w408-h271-k-no",
+  "kgmid": "/g/11krsnrjg5",
+  "domain": "wildtacodenver.com",
+  "emails": [
+    "info@wildtacodenver.com"
+  ],
+  "phones": [
+    "+13038567145",
+    "+17202427042"
+  ],
+  "phonesUncertain": [
+    "856-7145",
+    "242-7042"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/wildtacodenver"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/107056245306657"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 41,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.76997624090205,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "FlyteCo Brewing",
+  "price": null,
+  "categoryName": "Brewery",
+  "address": "4499 W 38th Ave #101, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4499 W 38th Ave #101",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.flyteco.beer/",
+  "phone": "(720) 772-7319",
+  "phoneUnformatted": "+17207727319",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7696155,
+    "lng": -105.0448627
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ-0Xz8SSHa4cRl2aAELXFfZs",
+  "categories": [
+    "Brewery",
+    "Beer hall",
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Comedy club",
+    "Live music bar",
+    "Lounge",
+    "Lunch restaurant",
+    "Restaurant"
+  ],
+  "fid": "0x876b8724f1f345fb:0x9b7dc5b510806697",
+  "cid": "11204328829424264855",
+  "reviewsCount": 366,
+  "reviewsDistribution": {
+    "oneStar": 14,
+    "twoStar": 6,
+    "threeStar": 5,
+    "fourStar": 34,
+    "fiveStar": 307
+  },
+  "imagesCount": 409,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:13:38.420Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "2 to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "2 to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "2 to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "2 to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Onsite services": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      }
+    ],
+    "Payments": [
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=FlyteCo%20Brewing&query_place_id=ChIJ-0Xz8SSHa4cRl2aAELXFfZs",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM43pGltTtEdlz13E3aHg91H3mUaQhWDwYS6PaE=w426-h240-k-no",
+  "kgmid": "/g/11f404q1s5",
+  "domain": "flytecobeer.com",
+  "emails": [
+    "info@flyteco.beer",
+    "emily@etpryall.com"
+  ],
+  "phones": [
+    "(720) 772-7319"
+  ],
+  "phonesUncertain": [
+    "(720) 772-7319",
+    "1620942231",
+    "1640111208",
+    "1640110208",
+    "1614290798",
+    "1614290827",
+    "20191105",
+    "1619379442",
+    "1621013887",
+    "919-449-4803",
+    "720-772-7319"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://instagram.com/flytecobrewing"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/flytecobrewing"
+  ],
+  "youtubes": [
+    "https://www.youtube.com/embed/m02rG0l40Ko",
+    "https://www.youtube.com/embed/l_U8oVIAeC0",
+    "https://www.youtube.com/embed/U2oBtOvQldM",
+    "https://www.youtube.com/embed/4NOje6_GdYQ",
+    "https://www.youtube.com/embed/BfMW2Oyo1Gs",
+    "https://www.youtube.com/embed/-Ba_2F-igSs"
+  ],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 40,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.76997624090205,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Lucy's Burger Bar",
+  "price": "$$",
+  "categoryName": "Hamburger restaurant",
+  "address": "4018 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4018 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://lucysburgerbar.com/",
+  "phone": "(720) 379-6311",
+  "phoneUnformatted": "+17203796311",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7719982,
+    "lng": -105.0439027
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQdnVb_qHa4cRLZGjuSZUzCo",
+  "categories": [
+    "Hamburger restaurant",
+    "American restaurant",
+    "Bar",
+    "Diner",
+    "Vegan restaurant"
+  ],
+  "fid": "0x876b87fa6fd5d941:0x2acc5426b9a3912d",
+  "cid": "3083932370141942061",
+  "reviewsCount": 594,
+  "reviewsDistribution": {
+    "oneStar": 49,
+    "twoStar": 43,
+    "threeStar": 35,
+    "fourStar": 43,
+    "fiveStar": 424
+  },
+  "imagesCount": 270,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:13:37.654Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 3 PM, 5 to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 3 PM, 5 to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 3 PM, 5 to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 3 PM, 5 to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 3 PM, 5 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 9 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Service options": [
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Braille menu": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Gender-neutral restroom": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lucy's%20Burger%20Bar&query_place_id=ChIJQdnVb_qHa4cRLZGjuSZUzCo",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPrAvVtwCCTQD6nLXTyK02ADUrPk33KLg40CKQS=w408-h408-k-no",
+  "kgmid": "/g/11q2r5g9m0",
+  "domain": "lucysburgerbar.com",
+  "emails": [
+    "info@lucysburgerbar.com"
+  ],
+  "phones": [
+    "+17203796311"
+  ],
+  "phonesUncertain": [
+    "379-6311"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/lucysburgerbar"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/101704018840769"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 38,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.76997624090205,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Post Oak Barbecue",
+  "description": "Contemporary, laid-back joint with wood & brick interiors, emphasizing classic Texan BBQ fare.",
+  "price": "$$",
+  "categoryName": "Barbecue restaurant",
+  "address": "4000 Tennyson St, Denver, CO 80212",
+  "neighborhood": "Berkeley",
+  "street": "4000 Tennyson St",
+  "city": "Denver",
+  "postalCode": "80212",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.postoakdenver.com/",
+  "phone": "(303) 458-1555",
+  "phoneUnformatted": "+13034581555",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7718264,
+    "lng": -105.0438713
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJgemOlUaHa4cR-Oi5ul6t_wA",
+  "categories": [
+    "Barbecue restaurant",
+    "Bar",
+    "Restaurant"
+  ],
+  "fid": "0x876b8746958ee981:0xffad5ebab9e8f8",
+  "cid": "71966741432494328",
+  "reviewsCount": 1992,
+  "reviewsDistribution": {
+    "oneStar": 45,
+    "twoStar": 50,
+    "threeStar": 89,
+    "fourStar": 166,
+    "fiveStar": 1642
+  },
+  "imagesCount": 1107,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:13:37.654Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 9 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Onsite services": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Post%20Oak%20Barbecue&query_place_id=ChIJgemOlUaHa4cR-Oi5ul6t_wA",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPi27T-fsl7n5zGpzrF_jA_rgXNlPccVcUZhYXb=w408-h306-k-no",
+  "kgmid": "/g/11h0_rp7qg",
+  "domain": "postoakdenver.com",
+  "emails": [
+    "careers@postoakdenver.com",
+    "catering@postoakdenver.com",
+    "nick@postoakdenver.com"
+  ],
+  "phones": [],
+  "phonesUncertain": [
+    "19005828",
+    "1385684565",
+    "4261313",
+    "1773150",
+    "055155407",
+    "493411032",
+    "29199219",
+    "56.224899",
+    "(303) 458-1555",
+    "42577640",
+    "426101562",
+    "30517578",
+    "66.680000"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "http://twitter.com/postoakdenver"
+  ],
+  "instagrams": [
+    "http://instagram.com/postoakdenver"
+  ],
+  "facebooks": [
+    "http://www.facebook.com/postoakdenver"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.776579399999996,-105.04352217928057,17z?hl=en",
+  "isAdvertisement": false,
+  "title": "Billy's Inn",
+  "description": "Bar & grill with American & Mexican grub & period architecture reflecting its circa-1933 premiere.",
+  "price": "$10–20",
+  "categoryName": "Bar & grill",
+  "address": "4403 Lowell Blvd, Denver, CO 80211",
+  "neighborhood": "Berkeley",
+  "street": "4403 Lowell Blvd",
+  "city": "Denver",
+  "postalCode": "80211",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.billysinn.com/",
+  "phone": "(303) 455-9733",
+  "phoneUnformatted": "+13034559733",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7769705,
+    "lng": -105.0349888
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJHf-u0ICHa4cRUpCbgPKgnoo",
+  "categories": [
+    "Bar & grill"
+  ],
+  "fid": "0x876b8780d0aeff1d:0x8a9ea0f2809b9052",
+  "cid": "9988597986954547282",
+  "reviewsCount": 1529,
+  "imagesCount": 417,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:11:55.223Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 9 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Sports": true
+      },
+      {
+        "Trivia night": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Historic": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Billy's%20Inn&query_place_id=ChIJHf-u0ICHa4cRUpCbgPKgnoo",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM2GFM-gkXO5WdRLv-k9irBhCIZ67QfNbfNR50P=w408-h541-k-no",
+  "kgmid": "/g/1tm1qz39",
+  "domain": "billysinn.com",
+  "emails": [
+    "berkeley@billysinn.com"
+  ],
+  "phones": [
+    "303-455-9733"
+  ],
+  "phonesUncertain": [
+    "303.455.9733"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/billysinn/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/billysinn"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+}]

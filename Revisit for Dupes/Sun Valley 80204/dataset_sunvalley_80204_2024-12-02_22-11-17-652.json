@@ -1,0 +1,5622 @@
+[{
+  "searchString": "serves_happy_hour",
+  "rank": 20,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Pony Up",
+  "description": "Happening gathering place doling out drinks & pub grub in a cool, neighborhood atmosphere.",
+  "price": "$20–30",
+  "categoryName": "Restaurant",
+  "address": "1808 Blake St, Denver, CO 80202",
+  "neighborhood": "Central",
+  "street": "1808 Blake St",
+  "city": "Denver",
+  "postalCode": "80202",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.ponyupdenver.com/",
+  "phone": "(720) 710-8144",
+  "phoneUnformatted": "+17207108144",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7525385,
+    "lng": -104.9963707
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJa7-6ypJ5bIcRNBPVLI4qMg4",
+  "categories": [
+    "Restaurant",
+    "Bar",
+    "Pub"
+  ],
+  "fid": "0x876c7992cababf6b:0xe322a8e2cd51334",
+  "cid": "1022926855492408116",
+  "reviewsCount": 910,
+  "imagesCount": 495,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.526Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "4 PM to 1 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 PM to 1 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 PM to 1 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4 PM to 1 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "4 PM to 1 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Paid parking garage": true
+      },
+      {
+        "Paid parking lot": true
+      },
+      {
+        "Paid street parking": true
+      }
+    ],
+    "Pets": [
+      {
+        "Dogs allowed outside": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Pony%20Up&query_place_id=ChIJa7-6ypJ5bIcRNBPVLI4qMg4",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPBNgc2qq8bEXZyoft8DTvMMWsh3uF1gNBlYkzH=w408-h272-k-no",
+  "kgmid": "/g/11gjm73dwp",
+  "domain": "ponyupdenver.com",
+  "emails": [
+    "info@ponyupdenver.com"
+  ],
+  "phones": [],
+  "phonesUncertain": [
+    "66.666671",
+    "75292969",
+    "63916016",
+    "66.657142",
+    "23.266666",
+    "412353516",
+    "56.233333",
+    "587646484",
+    "242.105270",
+    "3857422",
+    "209.771911",
+    "62109375",
+    "30541992",
+    "63.228069",
+    "221.385955",
+    "81054688",
+    "139.631576",
+    "53808594",
+    "209.421066",
+    "2841797",
+    "145.491226",
+    "19628906",
+    "147.058822",
+    "63183594"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "http://instagram.com/ponyupdenver"
+  ],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 18,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Golden Hour Wine Bar & Social Club",
+  "price": "$20–30",
+  "categoryName": "Wine bar",
+  "address": "3282 Tejon St, Denver, CO 80211",
+  "neighborhood": "Highland",
+  "street": "3282 Tejon St",
+  "city": "Denver",
+  "postalCode": "80211",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://goldenhoursocialclub.com/",
+  "phone": "(720) 420-9067",
+  "phoneUnformatted": "+17204209067",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7630924,
+    "lng": -105.0110159
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJcwJDiO55bIcRGSt2x3qQPPY",
+  "categories": [
+    "Wine bar",
+    "Bar",
+    "Lounge"
+  ],
+  "fid": "0x876c79ee88430273:0xf63c907ac7762b19",
+  "cid": "17743215488939731737",
+  "reviewsCount": 187,
+  "imagesCount": 68,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.526Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/rx52vo-OOtQ?source=pa&opi=79508299&hl=en-US&gei=aC9OZ4D8LfvsptQPx6W9uAk&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dserves_happy_hour%26tbm%3Dmap",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 PM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 PM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 10 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Great wine list": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "Credit cards": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Hour%20Wine%20Bar%20%26%20Social%20Club&query_place_id=ChIJcwJDiO55bIcRGSt2x3qQPPY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMWRa1HsqGaxkMvJRLD2ezcw77pf_dNco0JN4dG=w408-h544-k-no",
+  "kgmid": "/g/11vdv2t_xr",
+  "domain": "goldenhoursocialclub.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [
+    "8530578",
+    "720-420-9067"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/goldenhourdenver"
+  ],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 17,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Earls Kitchen + Bar",
+  "description": "Sleek, upscale chain serving gourmet burgers, global comfort food, cocktails, wines & beers.",
+  "price": "$30–50",
+  "categoryName": "Restaurant",
+  "address": "1600 Glenarm Pl #140, Denver, CO 80202",
+  "neighborhood": "Central Business District",
+  "street": "1600 Glenarm Pl #140",
+  "city": "Denver",
+  "postalCode": "80202",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://earls.ca/locations/downtown-denver",
+  "phone": "(303) 595-3275",
+  "phoneUnformatted": "+13035953275",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7436827,
+    "lng": -104.9899836
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJU5B8k9Z4bIcRYrLDRIKgAVI",
+  "categories": [
+    "Restaurant",
+    "Bar",
+    "Brunch restaurant",
+    "Lounge",
+    "Lunch restaurant"
+  ],
+  "fid": "0x876c78d6937c9053:0x5201a08244c3b262",
+  "cid": "5909180667446669922",
+  "reviewsCount": 1750,
+  "imagesCount": 873,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.526Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/0JIKoviFUYw?source=pa&opi=79508299&hl=en-US&gei=aC9OZ4D8LfvsptQPx6W9uAk&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dserves_happy_hour%26tbm%3Dmap",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 11 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Fireplace": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Great dessert": true
+      },
+      {
+        "Great wine list": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Halal food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Healthy options": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      },
+      {
+        "Upscale": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Dinner reservations recommended": true
+      },
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Cash-only": true
+      },
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Earls%20Kitchen%20%2B%20Bar&query_place_id=ChIJU5B8k9Z4bIcRYrLDRIKgAVI",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOHAZfue_6uHEZDXI9yq7ioNHKlXZ_OfxjuV0vC=w408-h291-k-no",
+  "kgmid": "/g/11_q6l2pb",
+  "domain": "earls.ca",
+  "emails": [
+    "media@earls.ca",
+    "comments@earls.ca"
+  ],
+  "phones": [
+    "(303) 595-3275"
+  ],
+  "phonesUncertain": [
+    "9961 170",
+    "8629 112",
+    "9825-100",
+    "5155 130",
+    "8882 170",
+    "0160 152",
+    "6339 200",
+    "(303) 595-3275",
+    "604-646-4880"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "https://twitter.com/earlsrestaurant"
+  ],
+  "instagrams": [
+    "https://www.instagram.com/earlsrestaurant/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/earlsrestaurants/"
+  ],
+  "youtubes": [],
+  "tiktoks": [
+    "https://www.tiktok.com/@earlsrestaurants"
+  ],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 16,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Call Me Pearl",
+  "price": "$30–50",
+  "categoryName": "Restaurant",
+  "address": "1600 20th St, Denver, CO 80202",
+  "neighborhood": "Central",
+  "street": "1600 20th St",
+  "city": "Denver",
+  "postalCode": "80202",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.callmepearlbar.com/",
+  "phone": "(720) 760-8937",
+  "phoneUnformatted": "+17207608937",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7552915,
+    "lng": -104.9962719
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJnRgAtIF5bIcRGydGN3SuxAs",
+  "categories": [
+    "Restaurant",
+    "Bar",
+    "Lounge"
+  ],
+  "fid": "0x876c7981b400189d:0xbc4ae743746271b",
+  "cid": "847994444019279643",
+  "reviewsCount": 55,
+  "imagesCount": 50,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.526Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/DF-QjZMAwKs?source=pa&opi=79508299&hl=en-US&gei=aC9OZ4D8LfvsptQPx6W9uAk&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dserves_happy_hour%26tbm%3Dmap",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "4 to 11 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Great wine list": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Cozy": true
+      },
+      {
+        "Romantic": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "Credit cards": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Call%20Me%20Pearl&query_place_id=ChIJnRgAtIF5bIcRGydGN3SuxAs",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMgDPA-uL6ktzx8LXbdbDx5oPHtTQJBfaz8EqAE=w408-h306-k-no",
+  "kgmid": "/g/11l5t7hcjw",
+  "domain": "callmepearlbar.com",
+  "emails": [
+    "info@callmepearlbar.com"
+  ],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/callmepearlbar/"
+  ],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 15,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Pour House on Market",
+  "description": "Lively watering hole with a roof bar & numerous taps dishing up burgers & wings for game-watchers.",
+  "price": "$10–20",
+  "categoryName": "Sports bar",
+  "address": "1410 Market St, Denver, CO 80202",
+  "neighborhood": "Central",
+  "street": "1410 Market St",
+  "city": "Denver",
+  "postalCode": "80202",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.pourhousedenver.com/",
+  "phone": "(303) 856-7726",
+  "phoneUnformatted": "+13038567726",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7480235,
+    "lng": -105.0002014
+  },
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJebnsqcV4bIcRWc8bTJUzm2E",
+  "categories": [
+    "Sports bar"
+  ],
+  "fid": "0x876c78c5a9ecb979:0x619b33954c1bcf59",
+  "cid": "7033271959389196121",
+  "reviewsCount": 296,
+  "imagesCount": 45,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.526Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10:15 AM to 2 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Bar games": true
+      },
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Rooftop seating": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Pour%20House%20on%20Market&query_place_id=ChIJebnsqcV4bIcRWc8bTJUzm2E",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPMelyp-uUTDPeNhXYyx2j4MeQxD4fo7Ctulv9a=w408-h306-k-no",
+  "kgmid": "/g/1tfxyj6g",
+  "domain": "pourhousedenver.com",
+  "emails": [
+    "harris2420@gmail.com"
+  ],
+  "phones": [
+    "+13038567726"
+  ],
+  "phonesUncertain": [
+    "94927811",
+    "856-7726"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/pourhouseonmarket"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/405615209452236"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 13,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Bar Nun Denver",
+  "description": "Lively destination with heated outdoor seating offering pizza & bar bites, plus inventive cocktails.",
+  "price": "$10–20",
+  "categoryName": "Bar & grill",
+  "address": "1225 Logan St, Denver, CO 80203",
+  "neighborhood": "Central",
+  "street": "1225 Logan St",
+  "city": "Denver",
+  "postalCode": "80203",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://barnundenver.com/",
+  "phone": "(720) 532-0757",
+  "phoneUnformatted": "+17205320757",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7355795,
+    "lng": -104.9825634
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJkUnYpih_bIcRT3-cCyuMzrU",
+  "categories": [
+    "Bar & grill",
+    "Bar",
+    "Caterer",
+    "Cocktail bar",
+    "Live music venue",
+    "Restaurant"
+  ],
+  "fid": "0x876c7f28a6d84991:0xb5ce8c2b0b9c7f4f",
+  "cid": "13100562482573639503",
+  "reviewsCount": 420,
+  "imagesCount": 151,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.526Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 2 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Curbside pickup": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Bar games": true
+      },
+      {
+        "Fast service": true
+      },
+      {
+        "Live music": true
+      },
+      {
+        "Live performances": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      },
+      {
+        "Wheelchair accessible parking lot": false
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Dancing": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Organic dishes": true
+      },
+      {
+        "Private dining room": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegan options": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Counter service": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Gender-neutral restroom": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Nun%20Denver&query_place_id=ChIJkUnYpih_bIcRT3-cCyuMzrU",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOtdmEgopHmlkELq_YtpuPnE041n-1QI0m3fngG=w408-h544-k-no",
+  "kgmid": "/g/11lkvfbf1m",
+  "domain": "barnundenver.com",
+  "emails": [
+    "bbuckley61@msn.com"
+  ],
+  "phones": [
+    "+17205320757"
+  ],
+  "phonesUncertain": [
+    "532-0757"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/barnundenver"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/101706131898706"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 12,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "The Corner Office Restaurant + Martini Bar",
+  "description": "Modern takes on comfort classics that span the globe plus cocktails in a sleek setting.",
+  "price": "$20–30",
+  "categoryName": "Restaurant",
+  "address": "1401 Curtis Street, Denver, CO 80202",
+  "neighborhood": "Central Business District",
+  "street": "1401 Curtis Street",
+  "city": "Denver",
+  "postalCode": "80202",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.thecornerofficedenver.com/",
+  "phone": "(303) 825-6500",
+  "phoneUnformatted": "+13038256500",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7457156,
+    "lng": -104.9972166
+  },
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ59c0J9B4bIcRP7IDgFozjiw",
+  "categories": [
+    "Restaurant",
+    "Bar",
+    "Cocktail bar"
+  ],
+  "fid": "0x876c78d02734d7e7:0x2c8e335a8003b23f",
+  "cid": "3210560048149541439",
+  "reviewsCount": 1554,
+  "imagesCount": 1368,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.525Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/irbGJFv5Fq0?source=pa&opi=79508299&hl=en-US&gei=aC9OZ4D8LfvsptQPx6W9uAk&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dserves_happy_hour%26tbm%3Dmap",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 1 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 1 PM, 4 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 1 PM, 4 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 1 PM, 4 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 1 PM, 4 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 3 PM, 4 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 3 PM, 4 to 10 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Curbside pickup": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Great coffee": true
+      },
+      {
+        "Great dessert": true
+      },
+      {
+        "Great wine list": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Private dining room": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Counter service": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      },
+      {
+        "Upscale": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Lunch reservations recommended": true
+      },
+      {
+        "Dinner reservations recommended": true
+      },
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Paid street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Corner%20Office%20Restaurant%20%2B%20Martini%20Bar&query_place_id=ChIJ59c0J9B4bIcRP7IDgFozjiw",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP10LXkepw3eopRZXcJ9TYS4RG7_AdsQvvnVQPi=w408-h272-k-no",
+  "kgmid": "/m/0zmr_wd",
+  "domain": "thecornerofficedenver.com",
+  "emails": [],
+  "phones": [
+    "303-825-6500",
+    "3038256500"
+  ],
+  "phonesUncertain": [
+    "303-825-6500"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://instagram.com/tcodenver"
+  ],
+  "facebooks": [
+    "https://facebook.com/thecornerofficedenver"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 11,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Ritual Social House",
+  "description": "Laid-back eatery whipping up pizzas, burgers & pasta, plus happy-hour specials & creative cocktails.",
+  "price": "$10–20",
+  "categoryName": "Bar & grill",
+  "address": "1209 E 13th Ave, Denver, CO 80218",
+  "neighborhood": "Central",
+  "street": "1209 E 13th Ave",
+  "city": "Denver",
+  "postalCode": "80218",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.ritualdenver.com/",
+  "phone": "(303) 862-4566",
+  "phoneUnformatted": "+13038624566",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7370354,
+    "lng": -104.9725356
+  },
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJwcYmq45_bIcRdxVSiWmDfe0",
+  "categories": [
+    "Bar & grill",
+    "American restaurant"
+  ],
+  "fid": "0x876c7f8eab26c6c1:0xed7d836989521577",
+  "cid": "17112978648376415607",
+  "reviewsCount": 648,
+  "imagesCount": 344,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.525Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/DF7JgcaredI?source=pa&opi=79508299&hl=en-US&gei=aC9OZ4D8LfvsptQPx6W9uAk&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dserves_happy_hour%26tbm%3Dmap",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 11 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Curbside pickup": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Bar games": true
+      },
+      {
+        "Fast service": true
+      },
+      {
+        "Karaoke": true
+      },
+      {
+        "Live music": true
+      },
+      {
+        "Live performances": true
+      },
+      {
+        "Sports": true
+      },
+      {
+        "Trivia night": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "All you can eat": true
+      },
+      {
+        "Arcade games": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Dancing": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegan options": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ritual%20Social%20House&query_place_id=ChIJwcYmq45_bIcRdxVSiWmDfe0",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOj3JrQLlBg0e1KuDn8xcueV4mdAEkp3DCxtNA1=w408-h408-k-no",
+  "kgmid": "/g/11h7qcyz5z",
+  "domain": "ritualdenver.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [
+    "5740478",
+    "02103942266874",
+    "202411112358373",
+    "2280607863",
+    "8816-202412",
+    "202409031530238",
+    "(000) 000-0000",
+    "000-000-0000",
+    "202311210707368"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 10,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Charlie Brown's Bar & Grill",
+  "description": "Old-time lounge where locals sing tunes at the piano & tip back classic drinks on the covered patio.",
+  "price": "$20–30",
+  "categoryName": "Bar & grill",
+  "address": "980 Grant St, Denver, CO 80203",
+  "neighborhood": "Central",
+  "street": "980 Grant St",
+  "city": "Denver",
+  "postalCode": "80203",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.charliebrownsbarandgrill.com/",
+  "phone": "(303) 860-1655",
+  "phoneUnformatted": "+13038601655",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7317995,
+    "lng": -104.9832143
+  },
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJYYcJUNZ-bIcR9E5nedC2hmk",
+  "categories": [
+    "Bar & grill",
+    "Bar",
+    "Breakfast restaurant",
+    "Lunch restaurant",
+    "Piano bar",
+    "Pizza Takeout",
+    "Restaurant"
+  ],
+  "fid": "0x876c7ed650098761:0x6986b6d079674ef4",
+  "cid": "7603966027367927540",
+  "reviewsCount": 1461,
+  "imagesCount": 728,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.525Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 2 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Curbside pickup": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Karaoke": true
+      },
+      {
+        "Live music": true
+      },
+      {
+        "Live performances": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Historic": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "High chairs": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Charlie%20Brown's%20Bar%20%26%20Grill&query_place_id=ChIJYYcJUNZ-bIcR9E5nedC2hmk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMcRYkSn98cCRpkDMM0IbndAJ5r8GB_kGCD-CWt=w408-h270-k-no",
+  "kgmid": "/m/0lbsmry",
+  "domain": "charliebrownsbarandgrill.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [
+    "(303) 860-1655",
+    "303-860-1655"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "https://twitter.com/charliebrownbar"
+  ],
+  "instagrams": [
+    "https://www.instagram.com/charliebrownsdenver/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/charliebrownsbarandgrill/"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 9,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Crazy Horse Kitchen and Bar",
+  "price": "$$",
+  "categoryName": "Event venue",
+  "address": "1201 E Colfax Ave #100, Denver, CO 80218",
+  "neighborhood": "Central",
+  "street": "1201 E Colfax Ave #100",
+  "city": "Denver",
+  "postalCode": "80218",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.crazyhorsedenver.com/",
+  "phone": "(303) 862-5236",
+  "phoneUnformatted": "+13038625236",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7402638,
+    "lng": -104.9716689
+  },
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJh_Vjaot_bIcR5xHiBFwKQDw",
+  "categories": [
+    "Event venue"
+  ],
+  "fid": "0x876c7f8b6a63f587:0x3c400a5c04e211e7",
+  "cid": "4341481431120351719",
+  "reviewsCount": 63,
+  "imagesCount": 73,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.525Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Onsite services": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Payments": [
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Crazy%20Horse%20Kitchen%20and%20Bar&query_place_id=ChIJh_Vjaot_bIcR5xHiBFwKQDw",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPse56SJXkCUdD5mzkO4oPEjAniSZgM-Ni8drtY=w408-h252-k-no",
+  "kgmid": "/g/11kpv735dg",
+  "domain": "crazyhorsedenver.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 8,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Stout Street Social",
+  "description": "Hip setting for an eclectic & far-flung menu, including New England clam chowder & sushi rolls.",
+  "price": "$20–30",
+  "categoryName": "American restaurant",
+  "address": "1400 Stout St, Denver, CO 80202",
+  "neighborhood": "Central Business District",
+  "street": "1400 Stout St",
+  "city": "Denver",
+  "postalCode": "80202",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.stoutstsocial.com/",
+  "phone": "(720) 214-9100",
+  "phoneUnformatted": "+17202149100",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7440941,
+    "lng": -104.9949255
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJE2oNutF4bIcRNZEeHwOJCxo",
+  "categories": [
+    "American restaurant",
+    "Bar",
+    "Brewpub",
+    "Cocktail bar",
+    "Sushi restaurant"
+  ],
+  "fid": "0x876c78d1ba0d6a13:0x1a0b89031f1e9135",
+  "cid": "1876744316229947701",
+  "reviewsCount": 2908,
+  "imagesCount": 1668,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.525Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 11 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great dessert": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Private dining room": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Dinner reservations recommended": true
+      },
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Paid parking garage": true
+      },
+      {
+        "Paid parking lot": true
+      },
+      {
+        "Paid street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Stout%20Street%20Social&query_place_id=ChIJE2oNutF4bIcRNZEeHwOJCxo",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNQeTTHu0PW2uzieVRkuMDF7zoAS_Tax4Sizzwa=w408-h306-k-no",
+  "kgmid": "/g/11b6grstsc",
+  "domain": "besocialcolorado.com",
+  "emails": [
+    "info@stoutstsocial.com"
+  ],
+  "phones": [],
+  "phonesUncertain": [
+    "22174218",
+    "48371249",
+    "6233379",
+    "1647523742315",
+    "1647523742370",
+    "48-9382-143680",
+    "6424759590",
+    "6424760",
+    "1680111119113",
+    "1698356507402",
+    "6424712",
+    "87722703",
+    "5136409274",
+    "64249019",
+    "6942542",
+    "(720)214-9100",
+    "04763002837733",
+    "6452760"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/besocialcolorado/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/besocialcolorado"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.748372430532264,-105.02603529999999,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Corridor 44 Champagne Bar and Restaurant",
+  "description": "Bottles of bubbly, cocktails & clever bites showcased in an intimate, ultrachic space with a patio.",
+  "price": "$30–50",
+  "categoryName": "Cocktail bar",
+  "address": "1433 Larimer St, Denver, CO 80202",
+  "neighborhood": "Central",
+  "street": "1433 Larimer St",
+  "city": "Denver",
+  "postalCode": "80202",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.corridor44.com/",
+  "phone": "(303) 893-0044",
+  "phoneUnformatted": "+13038930044",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7479866,
+    "lng": -104.9994275
+  },
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJsfpBbcV4bIcR3S8DxMs_bGg",
+  "categories": [
+    "Cocktail bar",
+    "American restaurant",
+    "Bar",
+    "Event venue",
+    "Lounge",
+    "Small plates restaurant",
+    "Wine bar"
+  ],
+  "fid": "0x876c78c56d41fab1:0x686c3fcbc4032fdd",
+  "cid": "7524459221828710365",
+  "reviewsCount": 514,
+  "imagesCount": 359,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:36.268Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/UYSWYlKWuzs?source=pa&opi=79508299&hl=en-US&gei=aS9OZ5DpENrOkPIPtJ6-0QU&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dserves_happy_hour%26tbm%3Dmap",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "4 PM to 2 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Onsite services": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Great wine list": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      },
+      {
+        "Upscale": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Paid parking garage": true
+      },
+      {
+        "Paid parking lot": true
+      },
+      {
+        "Paid street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Corridor%2044%20Champagne%20Bar%20and%20Restaurant&query_place_id=ChIJsfpBbcV4bIcR3S8DxMs_bGg",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNDdoSLyYBpGLZL5z-L6E6uuHcQBCeDw9xJnYxV=w408-h306-k-no",
+  "kgmid": "/g/1tf7n15y",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Revival Denver Public House",
+  "price": "$20–30",
+  "categoryName": "American restaurant",
+  "address": "630 E 17th Ave, Denver, CO 80203",
+  "neighborhood": "Central",
+  "street": "630 E 17th Ave",
+  "city": "Denver",
+  "postalCode": "80203",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://revival-denver.com/",
+  "phone": "(720) 524-7867",
+  "phoneUnformatted": "+17205247867",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7431046,
+    "lng": -104.9789215
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJdf7vwDB5bIcRUKbqopeByXc",
+  "categories": [
+    "American restaurant",
+    "Bar",
+    "Bar & grill",
+    "Brunch restaurant",
+    "Cocktail bar",
+    "Lunch restaurant",
+    "Takeout Restaurant",
+    "Oyster bar restaurant",
+    "Restaurant"
+  ],
+  "fid": "0x876c7930c0effe75:0x77c98197a2eaa650",
+  "cid": "8631572649105598032",
+  "reviewsCount": 497,
+  "imagesCount": 417,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.525Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/L92Wu4JoWsE?source=pa&opi=79508299&hl=en-US&gei=aC9OZ4D8LfvsptQPx6W9uAk&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dserves_happy_hour%26tbm%3Dmap",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Curbside pickup": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Organic dishes": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegan options": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Checks": true
+      },
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      },
+      null
+    ],
+    "Pets": [
+      {
+        "Dogs allowed": true
+      },
+      {
+        "Dogs allowed outside": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Revival%20Denver%20Public%20House&query_place_id=ChIJdf7vwDB5bIcRUKbqopeByXc",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPFGKwSBjMgttJtdvXU0xwGJFVw1hkrH0frKMMj=w426-h240-k-no",
+  "kgmid": "/g/11p107nkxv",
+  "domain": "revival-denver.com",
+  "emails": [
+    "revivaldenvercomms@gmail.com"
+  ],
+  "phones": [
+    "+17205247867"
+  ],
+  "phonesUncertain": [
+    "524-7867"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/revival.denver"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/104306068573552"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Sobo 151 Bar & Grill",
+  "description": "Czech eats like chicken paprika & beers plus Avalanche games, pool tables, trivia & karaoke.",
+  "price": "$10–20",
+  "categoryName": "Bar & grill",
+  "address": "151 S Broadway, Denver, CO 80209",
+  "neighborhood": "Baker",
+  "street": "151 S Broadway",
+  "city": "Denver",
+  "postalCode": "80209",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://sobo151.com/",
+  "phone": "(303) 778-1560",
+  "phoneUnformatted": "+13037781560",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7135667,
+    "lng": -104.9878944
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJG1YiZR5_bIcRc80NwSX606E",
+  "categories": [
+    "Bar & grill"
+  ],
+  "fid": "0x876c7f1e6522561b:0xa1d3fa25c10dcd73",
+  "cid": "11660938900251987315",
+  "reviewsCount": 965,
+  "imagesCount": 369,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.524Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "3 to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "3 to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "3 to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "3 PM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 2 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Bar games": true
+      },
+      {
+        "Fast service": true
+      },
+      {
+        "Karaoke": true
+      },
+      {
+        "Live performances": true
+      },
+      {
+        "Sports": true
+      },
+      {
+        "Trivia night": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "High chairs": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sobo%20151%20Bar%20%26%20Grill&query_place_id=ChIJG1YiZR5_bIcRc80NwSX606E",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP6WNLBJPkwAz7bBKpcdwdJ0g3Dj3OelD-8b7Cp=w408-h544-k-no",
+  "kgmid": "/g/1tdd1587",
+  "domain": "websitesbykate.wixsite.com",
+  "emails": [
+    "sobo151@sobo151.com"
+  ],
+  "phones": [],
+  "phonesUncertain": [
+    "303.778.1560"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "http://twitter.com/sobo151"
+  ],
+  "instagrams": [],
+  "facebooks": [
+    "https://www.facebook.com/Sobo151/"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Punch Bowl Social",
+  "description": "Southern American gastropub fare & punch bowls in a bar & amusement complex with lots of games.",
+  "price": "$20–30",
+  "categoryName": "Restaurant",
+  "address": "65 Broadway, Denver, CO 80203",
+  "neighborhood": "Baker",
+  "street": "65 Broadway",
+  "city": "Denver",
+  "postalCode": "80203",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://punchbowlsocial.com/location/denver/",
+  "phone": "(303) 765-2695",
+  "phoneUnformatted": "+13037652695",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7179286,
+    "lng": -104.9879806
+  },
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJXYUFKCB_bIcRtKd6nOvWTJo",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x876c7f202805855d:0x9a4cd6eb9c7aa7b4",
+  "cid": "11118497887501854644",
+  "reviewsCount": 4338,
+  "imagesCount": 2481,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.524Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/N40XusgmsPk?source=pa&opi=79508299&hl=en-US&gei=aC9OZ4D8LfvsptQPx6W9uAk&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dserves_happy_hour%26tbm%3Dmap",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 12 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Onsite services": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Fireplace": true
+      },
+      {
+        "Great dessert": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegan options": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      {
+        "On-site parking": true
+      },
+      {
+        "Paid street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Punch%20Bowl%20Social&query_place_id=ChIJXYUFKCB_bIcRtKd6nOvWTJo",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPha-vW4c3h5b-gofSwAMa6I__C_D01VT7A3ZBE=w408-h272-k-no",
+  "kgmid": "/g/1hhvksmn2",
+  "domain": "punchbowlsocial.com",
+  "emails": [],
+  "phones": [
+    "3037652695"
+  ],
+  "phonesUncertain": [
+    "(303) 765-2695"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/punchbowlsocial"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/punchbowlsocial/"
+  ],
+  "youtubes": [],
+  "tiktoks": [
+    "https://www.tiktok.com/@punchbowlsocial"
+  ],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Senor Bear",
+  "description": "Contemporary Pan-Latin seafood, small plates, cocktails & more in a trendy setting with a patio.",
+  "price": "$$",
+  "categoryName": "Latin American restaurant",
+  "address": "3301 Tejon St, Denver, CO 80211",
+  "neighborhood": "Highland",
+  "street": "3301 Tejon St",
+  "city": "Denver",
+  "postalCode": "80211",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.senorbeardenver.com/",
+  "phone": "(720) 640-7093",
+  "phoneUnformatted": "+17206407093",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7633799,
+    "lng": -105.0114183
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJr6-a8JJ4bIcR5RM53KOyLI8",
+  "categories": [
+    "Latin American restaurant",
+    "Brazilian restaurant"
+  ],
+  "fid": "0x876c7892f09aafaf:0x8f2cb2a3dc3913e5",
+  "cid": "10316817263243105253",
+  "reviewsCount": 1184,
+  "imagesCount": 933,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.524Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/nVCGHvh2jFU?source=pa&opi=79508299&hl=en-US&gei=aC9OZ4D8LfvsptQPx6W9uAk&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dserves_happy_hour%26tbm%3Dmap",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "3 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "3 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as Latino-owned": true
+      }
+    ],
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Great dessert": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Organic dishes": true
+      },
+      {
+        "Private dining room": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Gender-neutral restroom": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      },
+      {
+        "Upscale": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Dinner reservations recommended": true
+      },
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Senor%20Bear&query_place_id=ChIJr6-a8JJ4bIcR5RM53KOyLI8",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOWrYlxo8vhNqdc3LP3ekldYYsZOr2yvthRBEl2=w408-h323-k-no",
+  "kgmid": "/g/11g8c79dw2",
+  "domain": "senorbeardenver.com",
+  "emails": [],
+  "phones": [
+    "(720) 640-7093"
+  ],
+  "phonesUncertain": [
+    "5740478",
+    "0838-202411",
+    "202409121859540",
+    "2280607863",
+    "29164218303978",
+    "(720) 640-7093",
+    "202406281902430",
+    "202401041927216"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/senor_bear_/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/SENORBEARDEN"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Vesper Lounge",
+  "description": "Bustling lounge serving cocktails, craft beers & Moroccan-influenced snacks in an atmospheric space.",
+  "price": "$10–20",
+  "categoryName": "Middle Eastern restaurant",
+  "address": "233 E 7th Ave, Denver, CO 80203",
+  "neighborhood": "Central",
+  "street": "233 E 7th Ave",
+  "city": "Denver",
+  "postalCode": "80203",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.bonannoconcepts.com/restaurant/vesper-lounge/",
+  "phone": "(720) 328-0314",
+  "phoneUnformatted": "+17203280314",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7274296,
+    "lng": -104.9839623
+  },
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUwYWP9h-bIcRH4TLyv-MFoE",
+  "categories": [
+    "Middle Eastern restaurant",
+    "Bar",
+    "Lounge"
+  ],
+  "fid": "0x876c7ed83f160653:0x81168cffcacb841f",
+  "cid": "9301777110627222559",
+  "reviewsCount": 579,
+  "imagesCount": 149,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.522Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "2 PM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "2 PM to 2 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Curbside pickup": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Fireplace": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Private dining room": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ],
+    "Pets": [
+      {
+        "Dogs allowed": true
+      },
+      {
+        "Dogs allowed outside": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Vesper%20Lounge&query_place_id=ChIJUwYWP9h-bIcRH4TLyv-MFoE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPqPReLEN8OnwChtfa00O5BzDebczi5I7pINHx1=w440-h240-k-no",
+  "kgmid": "/g/124t4ss5s",
+  "domain": "bonannoconcepts.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [
+    "(720) 328-0314"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/vesperlounge/",
+    "https://www.instagram.com/bocodenver/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/bonanno.concepts/",
+    "https://www.facebook.com/VesperLounge/"
+  ],
+  "youtubes": [
+    "https://www.youtube.com/embed/yNNQ0-WZhZU",
+    "https://www.youtube.com/embed/gYOcd6japH4"
+  ],
+  "tiktoks": [
+    "https://www.tiktok.com/@the.bonannos"
+  ],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "The Hornet",
+  "description": "Airy, vibrant restaurant & bar with a globally influenced American menu, plus pool & happy hours.",
+  "price": "$20–30",
+  "categoryName": "Bar & grill",
+  "address": "76 Broadway, Denver, CO 80203",
+  "neighborhood": "Speer",
+  "street": "76 Broadway",
+  "city": "Denver",
+  "postalCode": "80203",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.hornetrestaurant.com/",
+  "phone": "(303) 777-7676",
+  "phoneUnformatted": "+13037777676",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7181201,
+    "lng": -104.9872351
+  },
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJA-MYICB_bIcRgh3wZbzUAVU",
+  "categories": [
+    "Bar & grill",
+    "American restaurant",
+    "Bar",
+    "Gluten-free restaurant",
+    "Restaurant"
+  ],
+  "fid": "0x876c7f202018e303:0x5501d4bc65f01d82",
+  "cid": "6125410873829760386",
+  "reviewsCount": 2239,
+  "imagesCount": 759,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:06:33.524Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/tKJUetc5pNA?source=pa&opi=79508299&hl=en-US&gei=aC9OZ4D8LfvsptQPx6W9uAk&sourceurl=http://www.google.com/service/MapsSearchService/Search?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3Dserves_happy_hour%26tbm%3Dmap",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11:30 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11:30 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11:30 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11:30 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11:30 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 3 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Curbside pickup": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great coffee": true
+      },
+      {
+        "Live performances": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Organic dishes": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegan options": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Paid street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Hornet&query_place_id=ChIJA-MYICB_bIcRgh3wZbzUAVU",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPiUCN03PgnJTnkMUWpy6Irr5LUi_w2gIbk8zMK=w408-h382-k-no",
+  "kgmid": "/g/1tdk11_r",
+  "domain": "hornetrestaurant.com",
+  "emails": [
+    "info@hornetrestaurant.com"
+  ],
+  "phones": [
+    "13037777676"
+  ],
+  "phonesUncertain": [
+    "303.777.7676"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "https://twitter.com/hornetdenver"
+  ],
+  "instagrams": [
+    "https://instagram.com/hornetdenver/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/hornetrestaurant"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [
+    "https://www.pinterest.com/hornetdenver/"
+  ],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 12,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.72195836946772,-104.97454648786082,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Pub on Penn",
+  "description": "Relaxed choice for sports on TV, pool & drinking games, plus standard bar food & an ample patio.",
+  "price": "$10–20",
+  "categoryName": "Bar",
+  "address": "1278 Pennsylvania St, Denver, CO 80203",
+  "neighborhood": "Central",
+  "street": "1278 Pennsylvania St",
+  "city": "Denver",
+  "postalCode": "80203",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.pub-on-penn.com/",
+  "phone": "(303) 861-8638",
+  "phoneUnformatted": "+13038618638",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7367753,
+    "lng": -104.980827
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ5e74itR-bIcRBymHHQRL9jE",
+  "categories": [
+    "Bar",
+    "Pub",
+    "Restaurant"
+  ],
+  "fid": "0x876c7ed48af8eee5:0x31f64b041d872907",
+  "cid": "3600147433176639751",
+  "reviewsCount": 789,
+  "imagesCount": 121,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:09:02.590Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 PM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 2 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Curbside pickup": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Bar games": true
+      },
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Sports": true
+      },
+      {
+        "Trivia night": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Pub%20on%20Penn&query_place_id=ChIJ5e74itR-bIcRBymHHQRL9jE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPVKmQ6QBgBiqJz5gTBJ8HWWmplQgIAuHotPRs=w408-h544-k-no",
+  "kgmid": "/g/1tf02zl9",
+  "domain": "pub-on-penn.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [
+    "https://www.facebook.com/WordPresscom"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.761579461064535,-105.00887236262027,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Forest Room 5",
+  "description": "Hip night spot with an artsy, rustic interior & an outdoor area with fire pits & a flowing creek.",
+  "price": "$10–20",
+  "categoryName": "Lounge",
+  "address": "2532 15th St, Denver, CO 80211",
+  "neighborhood": "Highland",
+  "street": "2532 15th St",
+  "city": "Denver",
+  "postalCode": "80211",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://m.facebook.com/people/Forest-Room-5/100063469692937/",
+  "phone": "(303) 433-7001",
+  "phoneUnformatted": "+13034337001",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7577912,
+    "lng": -105.0112783
+  },
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ8WhM_ZR4bIcRdta-Gv-W0uU",
+  "categories": [
+    "Lounge",
+    "Art gallery",
+    "Bar",
+    "Cocktail bar",
+    "Restaurant",
+    "Social club"
+  ],
+  "fid": "0x876c7894fd4c68f1:0xe5d296ff1abed676",
+  "cid": "16560464802204276342",
+  "reviewsCount": 1605,
+  "imagesCount": 593,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:10:19.384Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4:30 PM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4:30 PM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4:30 PM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4:30 PM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "3 PM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "4:30 PM to 1:30 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Forest%20Room%205&query_place_id=ChIJ8WhM_ZR4bIcRdta-Gv-W0uU",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMluQG0coy6vehrmSqnvPNpVaWqSlQ_cDbYbRNI=w408-h544-k-no",
+  "kgmid": "/g/1thvys63",
+  "domain": "facebook.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "serves_happy_hour",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/serves_happy_hour/@39.748372430532264,-104.99170942524054,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Yard House",
+  "description": "Stylish cocktail lounge at the Sheraton Hotel offers a patio & people-watching.",
+  "price": "$20–30",
+  "categoryName": "New American restaurant",
+  "address": "1555 Court Pl, Denver, CO 80202",
+  "neighborhood": "Central Business District",
+  "street": "1555 Court Pl",
+  "city": "Denver",
+  "postalCode": "80202",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.yardhouse.com/locations/co/denver/denver-sheraton-downtown/8329?cmpid=br:yh_ag:ie_ch:loc_ca:YHGMB_sn:gmb_gt:denver-co-8329_pl:locurl_rd:1027",
+  "phone": "(303) 572-9273",
+  "phoneUnformatted": "+13035729273",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.7428271,
+    "lng": -104.9895881
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJrXKvMdR4bIcR5EK3EkEjxwo",
+  "categories": [
+    "New American restaurant",
+    "Bar",
+    "Bar & grill",
+    "Gastropub",
+    "Takeout Restaurant",
+    "Sports bar",
+    "Vegetarian restaurant"
+  ],
+  "fid": "0x876c78d431af72ad:0xac7234112b742e4",
+  "cid": "776628223138546404",
+  "reviewsCount": 5784,
+  "imagesCount": 2466,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T22:10:41.522Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 12 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Curbside pickup": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great dessert": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Organic dishes": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Paid parking lot": true
+      },
+      {
+        "Paid street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Yard%20House&query_place_id=ChIJrXKvMdR4bIcR5EK3EkEjxwo",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOxvMvRDQDRPyukqPvtXBsBQMKZ9GC4Zgm7GpHF=w408-h544-k-no",
+  "kgmid": "/g/1tph26sh",
+  "domain": "yardhouse.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+}]

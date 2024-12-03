@@ -1,0 +1,4902 @@
+[{
+  "searchString": "has happy hour",
+  "rank": 10,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.94231346681776,-104.94671230000002,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Chili's Grill & Bar",
+  "description": "Family-friendly chain serving classic Tex-Mex & American fare in a Southwestern-style setting.",
+  "price": "$10–20",
+  "categoryName": "Restaurant",
+  "address": "16507 Washington St, Thornton, CO 80023",
+  "neighborhood": null,
+  "street": "16507 Washington St",
+  "city": "Thornton",
+  "postalCode": "80023",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.chilis.com/locations/us/colorado/thornton/larkridge?utm_source=google&utm_medium=local&utm_campaign=Chilis",
+  "phone": "(303) 450-0196",
+  "phoneUnformatted": "+13034500196",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.996626,
+    "lng": -104.978403
+  },
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJRwYpJox2bIcRN3pvC7DhTJk",
+  "categories": [
+    "Restaurant",
+    "American restaurant",
+    "Bar",
+    "Bar & grill",
+    "Family restaurant",
+    "Hamburger restaurant",
+    "Mexican restaurant",
+    "Tex-Mex restaurant"
+  ],
+  "fid": "0x876c768c26290647:0x994ce1b00b6f7a37",
+  "cid": "11046452132255332919",
+  "reviewsCount": 1168,
+  "imagesCount": 413,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:03:25.733Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 10 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Great dessert": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Chili's%20Grill%20%26%20Bar&query_place_id=ChIJRwYpJox2bIcRN3pvC7DhTJk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOlqPp2xxkHEzFF2wvB6Cgc7W84W094Y8jNl1ba=w408-h272-k-no",
+  "kgmid": "/g/1tg50xvl",
+  "domain": "chilis.com",
+  "emails": [],
+  "phones": [
+    "303-450-0196",
+    "303-238-2996",
+    "303-285-0880",
+    "303-375-1550",
+    "303-467-2218",
+    "303-604-6197",
+    "303-684-6455",
+    "303-691-2928",
+    "303-757-5550",
+    "303-781-7770",
+    "720-685-1492",
+    "720-859-1192",
+    "720-872-2499"
+  ],
+  "phonesUncertain": [
+    "(303) 450-0196",
+    "(303) 238-2996",
+    "(303) 285-0880",
+    "(303) 375-1550",
+    "(303) 467-2218",
+    "(303) 604-6197",
+    "(303) 684-6455",
+    "(303) 691-2928",
+    "(303) 757-5550",
+    "(303) 781-7770",
+    "(720) 685-1492",
+    "(720) 859-1192",
+    "(720) 872-2499"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 20,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.94231346681776,-104.94671230000002,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Outback Steakhouse",
+  "description": "Boisterous Australian-themed chain serving steaks, seafood & other hearty steakhouse fare.",
+  "price": "$20–30",
+  "categoryName": "Steak house",
+  "address": "497 E 120th Ave, Thornton, CO 80233",
+  "neighborhood": null,
+  "street": "497 E 120th Ave",
+  "city": "Thornton",
+  "postalCode": "80233",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://locations.outback.com/colorado/thornton/497-east-120th-avenue?utm_source=gmb&utm_medium=local_search&utm_campaign=website_cta&y_source=1_MTU1MDI1MDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "phone": "(303) 406-9849",
+  "phoneUnformatted": "+13034069849",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.9146477,
+    "lng": -104.982041
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJg92thTN0bIcRAP9dV_qT0p4",
+  "categories": [
+    "Steak house",
+    "American restaurant",
+    "Australian restaurant",
+    "Bar",
+    "Bar & grill",
+    "Gluten-free restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "fid": "0x876c743385addd83:0x9ed293fa575dff00",
+  "cid": "11444372306518736640",
+  "reviewsCount": 2477,
+  "imagesCount": 451,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:03:25.734Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 9:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 9:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 9:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 9:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 9 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Service options": [
+      {
+        "Curbside pickup": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great dessert": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Braille menu": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Healthy options": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Gender-neutral restroom": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      },
+      {
+        "Usually a wait": true
+      }
+    ],
+    "Payments": [
+      {
+        "Checks": true
+      },
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Outback%20Steakhouse&query_place_id=ChIJg92thTN0bIcRAP9dV_qT0p4",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNUpgtReKg1u8rdpkbj9opS47I9MRW6CLsodIc0=w493-h240-k-no",
+  "kgmid": "/g/1thcn7wq",
+  "domain": "outback.com",
+  "emails": [
+    "outbackgiftcardsupport@buyatab.com",
+    "giftcardteam@bloominbrands.com"
+  ],
+  "phones": [
+    "+13034069849",
+    "+13034069841",
+    "+13034069845",
+    "+13034069846",
+    "+13034069850",
+    "(888) 731-2610",
+    "(813) 387-8995"
+  ],
+  "phonesUncertain": [
+    "(303) 406-9849",
+    "(303) 406-9841",
+    "(303) 406-9845",
+    "(303) 406-9846",
+    "(303) 406-9850",
+    "274-0102",
+    "(888) 731-2610",
+    "(813) 387-8995"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "https://twitter.com/outback"
+  ],
+  "instagrams": [
+    "https://www.instagram.com/outback/",
+    "https://instagram.com/outback"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/outback"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 18,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.94231346681776,-104.94671230000002,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Thirsty’s Sports Pub",
+  "description": "Beer & cocktails served in a modest, old-timey setup with pool tables & a small covered patio.",
+  "price": "$10–20",
+  "categoryName": "Bar",
+  "address": "1294 E 104th Ave, Thornton, CO 80233",
+  "neighborhood": null,
+  "street": "1294 E 104th Ave",
+  "city": "Thornton",
+  "postalCode": "80233",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.facebook.com/pages/Thirstys-Sports-Pub/301039392896?ref=hl",
+  "phone": "(720) 929-2283",
+  "phoneUnformatted": "+17209292283",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.8845257,
+    "lng": -104.9714617
+  },
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJxRkeNpJ2bIcRRD--L4LqDWk",
+  "categories": [
+    "Bar",
+    "Karaoke bar",
+    "Pool hall"
+  ],
+  "fid": "0x876c7692361e19c5:0x690dea822fbe3f44",
+  "cid": "7569964393547317060",
+  "reviewsCount": 732,
+  "imagesCount": 75,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:03:24.950Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 2 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Bar games": true
+      },
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Karaoke": true
+      },
+      {
+        "Sports": true
+      },
+      {
+        "Trivia night": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Dancing": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Outside food allowed": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Thirsty%E2%80%99s%20Sports%20Pub&query_place_id=ChIJxRkeNpJ2bIcRRD--L4LqDWk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOSBovdOkNzG3bs0LdtV7XXB8YskCVPQL7IAxyF=w408-h306-k-no",
+  "kgmid": "/g/1thvhf4m",
+  "domain": "facebook.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 12,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.94231346681776,-104.94671230000002,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Applebee's Grill + Bar",
+  "description": "Full-service chain bar & grill providing hearty American eats in an informal setting.",
+  "price": "$10–20",
+  "categoryName": "Restaurant",
+  "address": "297 E 120th Ave, Thornton, CO 80233",
+  "neighborhood": null,
+  "street": "297 E 120th Ave",
+  "city": "Thornton",
+  "postalCode": "80233",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://restaurants.applebees.com/en-us/co/thornton/297-east-120th-avenue-84050?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=84050&utm_content=website",
+  "phone": "(303) 451-1414",
+  "phoneUnformatted": "+13034511414",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.9143854,
+    "lng": -104.9860284
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJb0icqcx1bIcRyDMDJWj-N8U",
+  "categories": [
+    "Restaurant",
+    "American restaurant",
+    "Bar & grill",
+    "Diner",
+    "Family restaurant",
+    "Hamburger restaurant",
+    "Steak house",
+    "Traditional American restaurant"
+  ],
+  "fid": "0x876c75cca99c486f:0xc537fe68250333c8",
+  "cid": "14211106872441910216",
+  "reviewsCount": 1905,
+  "imagesCount": 306,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:03:24.949Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 1 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 1 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 12 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Great dessert": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Applebee's%20Grill%20%2B%20Bar&query_place_id=ChIJb0icqcx1bIcRyDMDJWj-N8U",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNv59LqI-thxT5o0eyZCjhCsL947k5bXh0sUCGq=w408-h306-k-no",
+  "kgmid": "/g/1tdb99wk",
+  "domain": "applebees.com",
+  "emails": [],
+  "phones": [
+    "303-451-1414",
+    "(303) 451-1414",
+    "888-592-7753"
+  ],
+  "phonesUncertain": [
+    "(303) 451-1414",
+    "888-592-7753",
+    "59324290"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "https://twitter.com/applebees"
+  ],
+  "instagrams": [
+    "https://www.instagram.com/applebees"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/applebees"
+  ],
+  "youtubes": [
+    "https://www.youtube.com/user/applebeeing"
+  ],
+  "tiktoks": [
+    "https://www.tiktok.com/@applebees"
+  ],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 20,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.94231346681776,-104.92956953151717,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "The Point Bar & Grill Sports Bar",
+  "description": "Basic strip-mall watering hole offering bar food, sports on TV, pool tables & DJ nights.",
+  "price": "$",
+  "categoryName": "Sports bar",
+  "address": "4050 E 100th Ave, Thornton, CO 80229",
+  "neighborhood": null,
+  "street": "4050 E 100th Ave",
+  "city": "Thornton",
+  "postalCode": "80229",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://thepointbarandgrillthorton.com/",
+  "phone": "(303) 452-9353",
+  "phoneUnformatted": "+13034529353",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.8770798,
+    "lng": -104.9393691
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJw8C6I812bIcR0E8Vhy2jiVE",
+  "categories": [
+    "Sports bar"
+  ],
+  "fid": "0x876c76cd23bac0c3:0x5189a32d87154fd0",
+  "cid": "5875406604816699344",
+  "reviewsCount": 434,
+  "imagesCount": 101,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:04:24.943Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 12 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 12 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 12 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 1 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 12 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Curbside pickup": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Bar games": true
+      },
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Karaoke": true
+      },
+      {
+        "Sports": true
+      },
+      {
+        "Trivia night": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Dancing": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Checks": true
+      },
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ],
+    "Pets": [
+      {
+        "Dogs allowed": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Point%20Bar%20%26%20Grill%20Sports%20Bar&query_place_id=ChIJw8C6I812bIcR0E8Vhy2jiVE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPkCI-2DdQuN0ibsFnPqWGPOnPqJofuDrIMaSil=w408-h306-k-no",
+  "kgmid": "/g/1tdxfsgd",
+  "domain": "thepointbarandgrillthorton.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour food",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20food/@39.94231346681776,-104.92956953151717,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Old Chicago Pizza + Taproom",
+  "description": "Family-friendly chain restaurant featuring Italian entrees along with a wide beer selection.",
+  "price": "$10–20",
+  "categoryName": "Pizza restaurant",
+  "address": "3909 E 120th Ave, Thornton, CO 80233",
+  "neighborhood": null,
+  "street": "3909 E 120th Ave",
+  "city": "Thornton",
+  "postalCode": "80233",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://oldchicago.com/locations/us/co/thornton/3909-east-120th-ave/",
+  "phone": "(303) 252-1113",
+  "phoneUnformatted": "+13032521113",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.915083,
+    "lng": -104.941852
+  },
+  "totalScore": 3.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZ7Fp0wd0bIcRGesREf_SOaw",
+  "categories": [
+    "Pizza restaurant",
+    "Bar",
+    "Bar & grill",
+    "Family restaurant",
+    "Gluten-free restaurant",
+    "Lunch restaurant",
+    "Takeout Restaurant",
+    "New American restaurant",
+    "Restaurant",
+    "Traditional American restaurant"
+  ],
+  "fid": "0x876c7407d369b167:0xac39d2ff1111eb19",
+  "cid": "12410182241140992793",
+  "reviewsCount": 1439,
+  "imagesCount": 309,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:04:32.245Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10:30 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10:30 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10:30 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10:30 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10:30 AM to 1 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10:30 AM to 1 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10:30 AM to 11 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Curbside pickup": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great dessert": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ],
+    "Pets": [
+      {
+        "Dogs allowed outside": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Old%20Chicago%20Pizza%20%2B%20Taproom&query_place_id=ChIJZ7Fp0wd0bIcRGesREf_SOaw",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMaTIGlW5nWRgRy46YvnyyLu6OlYaxJNeeRpgEo=w426-h240-k-no",
+  "kgmid": "/g/1tm88y4k",
+  "domain": "oldchicago.com",
+  "emails": [
+    "catering@spbhospitality.com"
+  ],
+  "phones": [
+    "(303) 252-1113"
+  ],
+  "phonesUncertain": [
+    "(303) 252-1113"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "https://twitter.com/OldChicago1976",
+    "https://twitter.com/oldchicago1976"
+  ],
+  "instagrams": [
+    "https://www.instagram.com/oldchicago/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/OCThornton",
+    "http://www.facebook.com/OldChicago"
+  ],
+  "youtubes": [
+    "https://www.youtube.com/channel/UCCsARbGDEY7jVyrFz31jmrA"
+  ],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour drinks",
+  "rank": 10,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20drinks/@39.94231346681776,-104.94671230000002,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Tequila's Family Mexican Restaurant",
+  "description": "Local Mexican chain serving classic dishes & cocktails in a casual, traditional space.",
+  "price": "$10–20",
+  "categoryName": "Mexican restaurant",
+  "address": "12020 Pennsylvania St, Thornton, CO 80241",
+  "neighborhood": null,
+  "street": "12020 Pennsylvania St",
+  "city": "Thornton",
+  "postalCode": "80241",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.tequilasthornton.com/",
+  "phone": "(303) 254-5555",
+  "phoneUnformatted": "+13032545555",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.9152033,
+    "lng": -104.9803536
+  },
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJg_2L-DN0bIcRMwQn9Yp1oAo",
+  "categories": [
+    "Mexican restaurant",
+    "Bar & grill",
+    "Family restaurant",
+    "Restaurant"
+  ],
+  "fid": "0x876c7433f88bfd83:0xaa0758af5270433",
+  "cid": "765741176331895859",
+  "reviewsCount": 2868,
+  "imagesCount": 736,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:03:24.949Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 9 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great dessert": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Happy hour food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Tequila's%20Family%20Mexican%20Restaurant&query_place_id=ChIJg_2L-DN0bIcRMwQn9Yp1oAo",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNMj-2WXrY7_c3o6I_dYGIx10TIpgqFC4tkxPuG=w493-h240-k-no",
+  "kgmid": "/g/11b6vbsy7q",
+  "domain": "tequilasthornton.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.87649067477335,-104.94671230000002,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Trailside Saloon",
+  "price": "$10–20",
+  "categoryName": "Bar",
+  "address": "10360 Colorado Blvd, Thornton, CO 80229",
+  "neighborhood": null,
+  "street": "10360 Colorado Blvd",
+  "city": "Thornton",
+  "postalCode": "80229",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://m.facebook.com/Trailside-Saloon-127923927273585/",
+  "phone": "(303) 457-0660",
+  "phoneUnformatted": "+13034570660",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.8835555,
+    "lng": -104.9393145
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJGx4kxcp2bIcRrI4cGDvNuM8",
+  "categories": [
+    "Bar"
+  ],
+  "fid": "0x876c76cac5241e1b:0xcfb8cd3b181c8eac",
+  "cid": "14967939015257132716",
+  "reviewsCount": 283,
+  "imagesCount": 143,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:04:55.456Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 2 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Bar games": true
+      },
+      {
+        "Fast service": true
+      },
+      {
+        "Great beer selection": true
+      },
+      {
+        "Great cocktails": true
+      },
+      {
+        "Live music": true
+      },
+      {
+        "Live performances": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Dancing": true
+      },
+      {
+        "Food": true
+      },
+      {
+        "Food at bar": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Groups": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Trailside%20Saloon&query_place_id=ChIJGx4kxcp2bIcRrI4cGDvNuM8",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPURhYEWLLHz41KoyEw12yc7KOIujcl-3GKC1y6=w408-h306-k-no",
+  "kgmid": "/g/1tcvpryj",
+  "domain": "facebook.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "happy hour food",
+  "rank": 17,
+  "searchPageUrl": "https://www.google.com/maps/search/happy%20hour%20food/@39.87649067477335,-104.94671230000002,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Spice Kitchen Thornton",
+  "price": "$20–30",
+  "categoryName": "Nepalese restaurant",
+  "address": "2100 E 104th Ave, Thornton, CO 80233",
+  "neighborhood": null,
+  "street": "2100 E 104th Ave",
+  "city": "Thornton",
+  "postalCode": "80233",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://spicekitchenthornton.com/",
+  "phone": "(303) 954-8544",
+  "phoneUnformatted": "+13039548544",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.8845538,
+    "lng": -104.9630484
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ14urReN3bIcR0STTZ0g2vfk",
+  "categories": [
+    "Nepalese restaurant",
+    "Bar",
+    "Cocktail bar",
+    "Dumpling restaurant",
+    "Indian restaurant",
+    "Kebab shop",
+    "Momo restaurant"
+  ],
+  "fid": "0x876c77e345ab8bd7:0xf9bd364867d324d1",
+  "cid": "17995599370649806033",
+  "reviewsCount": 344,
+  "imagesCount": 203,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:04:59.345Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11:30 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11:30 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11:30 AM to 10 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Curbside pickup": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Halal food": true
+      },
+      {
+        "Happy hour drinks": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Healthy options": true
+      },
+      {
+        "Organic dishes": true
+      },
+      {
+        "Private dining room": true
+      },
+      {
+        "Salad bar": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegan options": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Brunch": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Counter service": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ],
+    "Pets": [
+      {
+        "Dogs allowed outside": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Spice%20Kitchen%20Thornton&query_place_id=ChIJ14urReN3bIcR0STTZ0g2vfk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMsc40SZOyN49XtYZou7I1Ghe6hjhyVQKy2zvUu=w426-h240-k-no",
+  "kgmid": "/g/11vc2p9j1n",
+  "domain": "spicekitchenthornton.com",
+  "emails": [
+    "spice.kitchen2100@gmail.com"
+  ],
+  "phones": [
+    "3039454168",
+    "3039548544"
+  ],
+  "phonesUncertain": [
+    "303-945-4168",
+    "303-954-8544"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/spice.kitchen2100"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/profile.php?id=61553358187274"
+  ],
+  "youtubes": [
+    "https://www.youtube.com/spic3kitchen"
+  ],
+  "tiktoks": [
+    "https://www.tiktok.com/@spice.kitchen2100"
+  ],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 29,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.915984349999995,-104.92956953151717,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "QDOBA Mexican Eats",
+  "description": "A menu of customizable Mexican food served in a modern restaurant, plus takeout & catering.",
+  "price": "$",
+  "categoryName": "Mexican restaurant",
+  "address": "3804 E 120th Ave, Thornton, CO 80233",
+  "neighborhood": null,
+  "street": "3804 E 120th Ave",
+  "city": "Thornton",
+  "postalCode": "80233",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://locations.qdoba.com/us/co/thornton/3804-e-120th-ave.html?utm_medium=organic&utm_source=google&utm_campaign=1279_2024_all_seo_google_maps_local&utm_content=website&utm_term=2914",
+  "phone": "(303) 920-2073",
+  "phoneUnformatted": "+13039202073",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.9133887,
+    "lng": -104.9425768
+  },
+  "totalScore": 3.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ6whnRQZ0bIcRbDYlf2-93S0",
+  "categories": [
+    "Mexican restaurant",
+    "Bar & grill",
+    "Box lunch supplier",
+    "Brunch restaurant",
+    "Caterer",
+    "Delivery service",
+    "Fast food restaurant",
+    "Restaurant",
+    "Tex-Mex restaurant"
+  ],
+  "fid": "0x876c7406456708eb:0x2dddbd6f7f25366c",
+  "cid": "3305005988131976812",
+  "reviewsCount": 600,
+  "reviewsDistribution": {
+    "oneStar": 116,
+    "twoStar": 41,
+    "threeStar": 59,
+    "fourStar": 117,
+    "fiveStar": 267
+  },
+  "imagesCount": 172,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:05:29.817Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6:30 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6:30 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6:30 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6:30 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6:30 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6:30 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6:30 AM to 11 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Checks": true
+      },
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=QDOBA%20Mexican%20Eats&query_place_id=ChIJ6whnRQZ0bIcRbDYlf2-93S0",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNgklCQF0lMvRioAkB0s8owlv1pU9I187CIoIGZ=w493-h240-k-no",
+  "kgmid": "/g/11byttw2cb",
+  "domain": "qdoba.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [
+    "(303) 920-2073",
+    "(888) 736-2224"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "https://twitter.com/Qdoba"
+  ],
+  "instagrams": [
+    "https://www.instagram.com/qdoba/",
+    "https://www.instagram.com/qdoba"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/qdoba"
+  ],
+  "youtubes": [
+    "https://www.youtube.com/user/QdobaMexGrill",
+    "https://www.youtube.com/watch?v=R6b0sJ9NPMc",
+    "https://www.youtube.com/channel/UCYGkTMJGxaVfR1RvQ_MWvpg"
+  ],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 36,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.915984349999995,-104.92956953151717,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Crystal Clear Water & Ice",
+  "price": null,
+  "categoryName": "Bottled water supplier",
+  "address": "3951 E 120th Ave Unit #A, Thornton, CO 80233",
+  "neighborhood": null,
+  "street": "3951 E 120th Ave Unit #A",
+  "city": "Thornton",
+  "postalCode": "80233",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "http://www.crystalclearwaterandice.com/",
+  "phone": "(303) 254-9800",
+  "phoneUnformatted": "+13032549800",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.9157475,
+    "lng": -104.9413233
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ49Wgtwd0bIcRvMnYgT_5UV4",
+  "categories": [
+    "Bottled water supplier",
+    "Cafe",
+    "Coffee shop",
+    "Pastry shop",
+    "Snack bar"
+  ],
+  "fid": "0x876c7407b7a0d5e3:0x5e51f93f81d8c9bc",
+  "cid": "6796487363835513276",
+  "reviewsCount": 126,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 2,
+    "threeStar": 2,
+    "fourStar": 8,
+    "fiveStar": 110
+  },
+  "imagesCount": 49,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:05:29.818Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 6:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 6:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 6:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 6:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 6:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 5:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 3:30 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Onsite services": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Crystal%20Clear%20Water%20%26%20Ice&query_place_id=ChIJ49Wgtwd0bIcRvMnYgT_5UV4",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNKeeolQZVlN8xBMkJkcS_uMZC3yQh6SdsCZXAq=w408-h544-k-no",
+  "kgmid": "/g/1thvys5s",
+  "domain": "crystalclearwaterandice.com",
+  "emails": [
+    "CONNECT@CRYSTALCLEARWATERANDICE.COM",
+    "contact@crystalclearwaterandice.com"
+  ],
+  "phones": [
+    "3032549800",
+    "7203661994"
+  ],
+  "phonesUncertain": [
+    "(303) 254-9800",
+    "(720) 366-1994"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 45,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.915984349999995,-104.9809978369657,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "KPOT Korean BBQ & Hot Pot",
+  "price": "$$",
+  "categoryName": "Korean restaurant",
+  "address": "1251 E 120th Ave, Thornton, CO 80233",
+  "neighborhood": null,
+  "street": "1251 E 120th Ave",
+  "city": "Thornton",
+  "postalCode": "80233",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://thekpot.com/location/120th-ave-thornton/",
+  "phone": "(303) 451-8228",
+  "phoneUnformatted": "+13034518228",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.9144541,
+    "lng": -104.9717882
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJo3MYegB1bIcRcnvSTtwXiZA",
+  "categories": [
+    "Korean restaurant",
+    "Asian fusion restaurant",
+    "Asian restaurant",
+    "Bar",
+    "Buffet restaurant",
+    "Hot pot restaurant",
+    "Korean barbecue restaurant"
+  ],
+  "fid": "0x876c75007a1873a3:0x908917dc4ed27b72",
+  "cid": "10414881848253643634",
+  "reviewsCount": 365,
+  "reviewsDistribution": {
+    "oneStar": 24,
+    "twoStar": 10,
+    "threeStar": 15,
+    "fourStar": 26,
+    "fiveStar": 290
+  },
+  "imagesCount": 156,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:06:00.986Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 10:30 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      },
+      {
+        "Takeout": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Sports": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "All you can eat": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Late-night food": true
+      },
+      {
+        "Organic dishes": true
+      },
+      {
+        "Salad bar": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Counter service": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "Has changing table(s)": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=KPOT%20Korean%20BBQ%20%26%20Hot%20Pot&query_place_id=ChIJo3MYegB1bIcRcnvSTtwXiZA",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPg2C2wrDyi3_mpi2rai2ZKQ_IIV5Y7Bpw4kiOp=w408-h544-k-no",
+  "kgmid": "/g/11vppjb09n",
+  "domain": "thekpot.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [
+    "303-451-8228"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/kpotbbqandhotpot/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/kpotbbqandhotpot"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 51,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.915984349999995,-104.9809978369657,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Starbucks",
+  "description": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+  "price": "$$",
+  "categoryName": "Coffee shop",
+  "address": "45 E 120th Ave, Thornton, CO 80241",
+  "neighborhood": null,
+  "street": "45 E 120th Ave",
+  "city": "Thornton",
+  "postalCode": "80241",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.starbucks.com/store-locator/store/9508/",
+  "phone": "(303) 451-2314",
+  "phoneUnformatted": "+13034512314",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.914525,
+    "lng": -104.987817
+  },
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ_S82Y8t1bIcRIOLW0EE9gZ0",
+  "categories": [
+    "Coffee shop",
+    "Breakfast restaurant",
+    "Cafe",
+    "Coffee store",
+    "Espresso bar",
+    "Internet cafe"
+  ],
+  "fid": "0x876c75cb63362ffd:0x9d813d41d0d6e220",
+  "cid": "11349419888836272672",
+  "reviewsCount": 1071,
+  "reviewsDistribution": {
+    "oneStar": 109,
+    "twoStar": 58,
+    "threeStar": 107,
+    "fourStar": 221,
+    "fiveStar": 576
+  },
+  "imagesCount": 104,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:06:00.987Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 AM to 8:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 AM to 8:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 AM to 8:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 AM to 8:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 AM to 8:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 AM to 8:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5:30 AM to 8:30 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Drive-through": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Great coffee": true
+      },
+      {
+        "Great tea selection": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Solo dining": true
+      },
+      {
+        "Good for working on laptop": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Coffee": true
+      },
+      {
+        "Prepared foods": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Usually a wait": true
+      },
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ],
+    "Pets": [
+      {
+        "Dogs allowed outside": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJ_S82Y8t1bIcRIOLW0EE9gZ0",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO7MJXx5cMmrSL4ulE19L5K5_kARAUBS13U-PQq=w408-h544-k-no",
+  "kgmid": "/g/1v76_4hc",
+  "domain": "starbucks.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 32,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.915984349999995,-104.9809978369657,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Olive Garden Italian Restaurant",
+  "description": "Lively, family-friendly chain featuring Italian standards such as pastas & salads.",
+  "price": "$$",
+  "categoryName": "Italian restaurant",
+  "address": "1151 E 120th Ave, Thornton, CO 80233",
+  "neighborhood": null,
+  "street": "1151 E 120th Ave",
+  "city": "Thornton",
+  "postalCode": "80233",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.olivegarden.com/locations/co/thornton/thornton/1593?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_sn:gmb_gt:thornton-co-1593_pl:locurl_rd:1459",
+  "phone": "(303) 450-9528",
+  "phoneUnformatted": "+13034509528",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.914381,
+    "lng": -104.972881
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJz-I6bjp0bIcRc1gOohhsiAM",
+  "categories": [
+    "Italian restaurant",
+    "Caterer",
+    "Family restaurant",
+    "Gluten-free restaurant",
+    "Takeout Restaurant",
+    "Mediterranean restaurant",
+    "Seafood restaurant",
+    "Soup restaurant",
+    "Wine bar"
+  ],
+  "fid": "0x876c743a6e3ae2cf:0x3886c18a20e5873",
+  "cid": "254572232000297075",
+  "reviewsCount": 3898,
+  "reviewsDistribution": {
+    "oneStar": 230,
+    "twoStar": 132,
+    "threeStar": 335,
+    "fourStar": 866,
+    "fiveStar": 2335
+  },
+  "imagesCount": 649,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:05:59.784Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 10 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Curbside pickup": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Fast service": true
+      },
+      {
+        "Great dessert": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      },
+      {
+        "Cocktails": true
+      },
+      {
+        "Coffee": true
+      },
+      {
+        "Comfort food": true
+      },
+      {
+        "Hard liquor": true
+      },
+      {
+        "Small plates": true
+      },
+      {
+        "Vegetarian options": true
+      },
+      {
+        "Wine": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Catering": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Usually a wait": true
+      },
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      },
+      {
+        "Kids' menu": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Olive%20Garden%20Italian%20Restaurant&query_place_id=ChIJz-I6bjp0bIcRc1gOohhsiAM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMZbWmcvsvD6772SmjMw0S28JSI4cHeu3w07bi9=w408-h544-k-no",
+  "kgmid": "/g/1vr3dnjv",
+  "domain": "olivegarden.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 36,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.915984349999995,-104.9809978369657,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Satire Brewing Company",
+  "price": "$$",
+  "categoryName": "Brewery",
+  "address": "12136 Grant Cir unit b, Thornton, CO 80241",
+  "neighborhood": null,
+  "street": "12136 Grant Cir unit b",
+  "city": "Thornton",
+  "postalCode": "80241",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://satirebrewingcompany.com/",
+  "phone": "(720) 275-0667",
+  "phoneUnformatted": "+17202750667",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.9170998,
+    "lng": -104.9832119
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJuQivD3Z1bIcRniuvEaBQ_KI",
+  "categories": [
+    "Brewery",
+    "Bar",
+    "Beer garden"
+  ],
+  "fid": "0x876c75760faf08b9:0xa2fc50a011af2b9e",
+  "cid": "11744350576697093022",
+  "reviewsCount": 542,
+  "reviewsDistribution": {
+    "oneStar": 10,
+    "twoStar": 5,
+    "threeStar": 13,
+    "fourStar": 40,
+    "fiveStar": 474
+  },
+  "imagesCount": 546,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:05:59.785Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "3 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 8 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Curbside pickup": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Alcohol": true
+      },
+      {
+        "Beer": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Bar onsite": true
+      }
+    ],
+    "Payments": [
+      {
+        "Debit cards": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Satire%20Brewing%20Company&query_place_id=ChIJuQivD3Z1bIcRniuvEaBQ_KI",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOreEFUqkRQ6zNhw-6K9sdlsSWQy7lNm1ok3_ts=w408-h408-k-no",
+  "kgmid": "/g/11f9cpl184",
+  "domain": "satirebrewingcompany.com",
+  "emails": [
+    "fun@satirebrewingcompany.com"
+  ],
+  "phones": [],
+  "phonesUncertain": [
+    "(720) 275-0667"
+  ],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [
+    "https://www.instagram.com/satirebrewingco/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/satirebrewingco"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 33,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.95547802522664,-104.9809978369657,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Main Event Thornton",
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "580 E 144th Ave, Thornton, CO 80023",
+  "neighborhood": null,
+  "street": "580 E 144th Ave",
+  "city": "Thornton",
+  "postalCode": "80023",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.mainevent.com/locations/colorado/thornton/",
+  "phone": "(303) 254-8888",
+  "phoneUnformatted": "+13032548888",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.9567774,
+    "lng": -104.9793417
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJM5_HLqh1bIcR_Yx2E31aYqg",
+  "categories": [
+    "Restaurant",
+    "Laser tag center",
+    "Bowling alley",
+    "Sports bar"
+  ],
+  "fid": "0x876c75a82ec79f33:0xa8625a7d13768cfd",
+  "cid": "12133359839333485821",
+  "reviewsCount": 2086,
+  "reviewsDistribution": {
+    "oneStar": 158,
+    "twoStar": 81,
+    "threeStar": 159,
+    "fourStar": 358,
+    "fiveStar": 1330
+  },
+  "imagesCount": 848,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:06:33.143Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 1 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 12 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 12 AM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Onsite services": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Active military discounts": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Food": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids birthday": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Main%20Event%20Thornton&query_place_id=ChIJM5_HLqh1bIcR_Yx2E31aYqg",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMniKfBMF4boIE7eOKTe4m2PJQt8gP1QvH-o94E=w408-h272-k-no",
+  "kgmid": "/g/11fhsppxd3",
+  "domain": "mainevent.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [
+    "(303) 254-8888"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "https://twitter.com/MyMainEvent",
+    "https://twitter.com/mymainevent"
+  ],
+  "instagrams": [
+    "https://www.instagram.com/mymainevent/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/mymainevent/"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 28,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.994971700453284,-104.9809978369657,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Starbucks",
+  "description": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+  "price": "$$",
+  "categoryName": "Coffee shop",
+  "address": "Larkridge, 16769 Washington St, Thornton, CO 80023",
+  "neighborhood": null,
+  "street": "Larkridge, 16769 Washington St",
+  "city": "Thornton",
+  "postalCode": "80023",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.starbucks.com/store-locator/store/10431/",
+  "phone": "(303) 451-0324",
+  "phoneUnformatted": "+13034510324",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.999555,
+    "lng": -104.9769176
+  },
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJmUVpXyILbIcRts38JZDOUpc",
+  "categories": [
+    "Coffee shop",
+    "Breakfast restaurant",
+    "Cafe",
+    "Coffee store",
+    "Espresso bar",
+    "Internet cafe"
+  ],
+  "fid": "0x876c0b225f694599:0x9752ce9025fccdb6",
+  "cid": "10904004766325329334",
+  "reviewsCount": 351,
+  "reviewsDistribution": {
+    "oneStar": 55,
+    "twoStar": 14,
+    "threeStar": 31,
+    "fourStar": 76,
+    "fiveStar": 175
+  },
+  "imagesCount": 45,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:06:59.570Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 AM to 7 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 AM to 7 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 AM to 7 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 AM to 7 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 AM to 7 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 AM to 7 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 AM to 7 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Drive-through": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Great coffee": true
+      },
+      {
+        "Great tea selection": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Solo dining": true
+      },
+      {
+        "Good for working on laptop": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Coffee": true
+      },
+      {
+        "Prepared foods": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      },
+      {
+        "High chairs": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ],
+    "Pets": [
+      {
+        "Dogs allowed outside": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJmUVpXyILbIcRts38JZDOUpc",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMHlg5F7uyFuSb7MUMvIxDDel_t3xeuWzTseZ2h=w408-h544-k-no",
+  "kgmid": "/g/1vpq7cpn",
+  "domain": "starbucks.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 29,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.87649067477335,-104.96385506848286,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "TCBY Frozen Yogurt",
+  "description": "Bright chain yogurt shop serving up varied frozen treats & chilled coffee drinks.",
+  "price": "$",
+  "categoryName": "Frozen yogurt shop",
+  "address": "9645 Washington St STE 140, Thornton, CO 80229",
+  "neighborhood": null,
+  "street": "9645 Washington St STE 140",
+  "city": "Thornton",
+  "postalCode": "80229",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://store.tcby.com/home/highpointepark",
+  "phone": "(720) 872-6459",
+  "phoneUnformatted": "+17208726459",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.8718221,
+    "lng": -104.9782794
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJOTmRH_F2bIcRaUgUfNfrpLA",
+  "categories": [
+    "Frozen yogurt shop",
+    "Cake shop",
+    "Dessert shop",
+    "Ice cream shop",
+    "Snack bar"
+  ],
+  "fid": "0x876c76f11f913939:0xb0a4ebd77c144869",
+  "cid": "12728557757588064361",
+  "reviewsCount": 202,
+  "reviewsDistribution": {
+    "oneStar": 15,
+    "twoStar": 4,
+    "threeStar": 13,
+    "fourStar": 40,
+    "fiveStar": 130
+  },
+  "imagesCount": 30,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:08:02.494Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 9:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 9:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 9:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 9:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 10 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as Black-owned": true
+      },
+      {
+        "Identifies as Latino-owned": true
+      },
+      {
+        "Small business": true
+      }
+    ],
+    "Service options": [
+      {
+        "Delivery": true
+      },
+      {
+        "In-store pickup": true
+      },
+      {
+        "In-store shopping": true
+      },
+      {
+        "Onsite services": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Same-day delivery": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Gender-neutral restroom": true
+      },
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Planning": [
+      {
+        "Quick visit": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=TCBY%20Frozen%20Yogurt&query_place_id=ChIJOTmRH_F2bIcRaUgUfNfrpLA",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPaRbkHxpBX5VvcYWkCwZu6ON_qc-Qfk0Xty1wK=w408-h544-k-no",
+  "kgmid": "/g/1jkyfh15q",
+  "domain": "tcby.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [
+    "(720) 872-6459"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "http://www.twitter.com/tcby"
+  ],
+  "instagrams": [
+    "https://www.instagram.com/tcby/"
+  ],
+  "facebooks": [],
+  "youtubes": [
+    "http://www.youtube.com/tcbyyogurt"
+  ],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 25,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.86332611636447,-104.9809978369657,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "AMF Sonesta Lanes",
+  "description": "Long-standing chain of bowling alleys featuring casual grub & pitchers, leagues & party events.",
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "8800 Grant St, Thornton, CO 80229",
+  "neighborhood": null,
+  "street": "8800 Grant St",
+  "city": "Thornton",
+  "postalCode": "80229",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.amf.com/location/amf-sonesta-lanes/",
+  "phone": "(303) 430-8017",
+  "phoneUnformatted": "+13034308017",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.8571388,
+    "lng": -104.982788
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ7aFm7gB3bIcRPUHPmP3UrWE",
+  "categories": [
+    "Restaurant",
+    "Grill",
+    "Bar & grill",
+    "Bowling club",
+    "Bowling supply shop",
+    "Event venue",
+    "Leagues club",
+    "Bowling alley",
+    "Sports bar",
+    "Video arcade"
+  ],
+  "fid": "0x876c7700ee66a1ed:0x61add4fd98cf413d",
+  "cid": "7038515978305487165",
+  "reviewsCount": 773,
+  "reviewsDistribution": {
+    "oneStar": 60,
+    "twoStar": 42,
+    "threeStar": 98,
+    "fourStar": 163,
+    "fiveStar": 410
+  },
+  "imagesCount": 186,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:08:54.528Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4 PM to 1 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 PM to 1 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 11 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Onsite services": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Food": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids birthday": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=AMF%20Sonesta%20Lanes&query_place_id=ChIJ7aFm7gB3bIcRPUHPmP3UrWE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPdSDtxttCgsNMe_adAKzc80rRlGH4n5HZMaeIC=w408-h544-k-no",
+  "kgmid": "/g/1tf7smlq",
+  "domain": "amf.com",
+  "emails": [
+    "GuestService@BowleroCorp.com"
+  ],
+  "phones": [],
+  "phonesUncertain": [
+    "303-430-8017",
+    "866-211-3369"
+  ],
+  "linkedIns": [],
+  "twitters": [
+    "https://twitter.com/BowleroBowl/"
+  ],
+  "instagrams": [
+    "https://www.instagram.com/BowleroBowl/"
+  ],
+  "facebooks": [
+    "https://www.facebook.com/AMFSonestaLanes/",
+    "https://www.facebook.com/BowleroBowl/"
+  ],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+},
+{
+  "searchString": "has happy hour",
+  "rank": 39,
+  "searchPageUrl": "https://www.google.com/maps/search/has%20happy%20hour/@39.87649067477335,-104.9809978369657,16z?hl=en",
+  "isAdvertisement": false,
+  "title": "Starbucks",
+  "description": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+  "price": "$$",
+  "categoryName": "Coffee shop",
+  "address": "635 Thornton Pkwy, Thornton, CO 80229",
+  "neighborhood": null,
+  "street": "635 Thornton Pkwy",
+  "city": "Thornton",
+  "postalCode": "80229",
+  "state": "Colorado",
+  "countryCode": "US",
+  "website": "https://www.starbucks.com/store-locator/store/1023011",
+  "phone": "(303) 920-0276",
+  "phoneUnformatted": "+13039200276",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 39.8710845,
+    "lng": -104.9791135
+  },
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJWZxTJ9x3bIcRiA5TSe_E3bQ",
+  "categories": [
+    "Coffee shop",
+    "Breakfast restaurant",
+    "Cafe",
+    "Coffee store",
+    "Espresso bar",
+    "Internet cafe"
+  ],
+  "fid": "0x876c77dc27539c59:0xb4ddc4ef49530e88",
+  "cid": "13032789428686491272",
+  "reviewsCount": 577,
+  "reviewsDistribution": {
+    "oneStar": 101,
+    "twoStar": 36,
+    "threeStar": 51,
+    "fourStar": 87,
+    "fiveStar": 302
+  },
+  "imagesCount": 64,
+  "imageCategories": [],
+  "scrapedAt": "2024-12-02T23:09:57.069Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "4:30 AM to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4:30 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4:30 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4:30 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4:30 AM to 9 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 AM to 9 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5:30 AM to 9 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "Drive-through": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      },
+      {
+        "Delivery": false
+      }
+    ],
+    "Highlights": [
+      {
+        "Great coffee": true
+      },
+      {
+        "Great tea selection": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Solo dining": true
+      },
+      {
+        "Good for working on laptop": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Offerings": [
+      {
+        "Coffee": true
+      },
+      {
+        "Prepared foods": true
+      },
+      {
+        "Quick bite": true
+      },
+      {
+        "Small plates": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Breakfast": true
+      },
+      {
+        "Lunch": true
+      },
+      {
+        "Dessert": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      },
+      {
+        "Wi-Fi": true
+      },
+      {
+        "Free Wi-Fi": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Family-friendly": true
+      },
+      {
+        "Groups": true
+      },
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Tourists": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ],
+    "Planning": [
+      {
+        "Usually a wait": true
+      },
+      {
+        "Accepts reservations": false
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      },
+      {
+        "NFC mobile payments": true
+      },
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ],
+    "Pets": [
+      {
+        "Dogs allowed outside": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "ownerUpdates": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJWZxTJ9x3bIcRiA5TSe_E3bQ",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOV6Is0BSpiK3Iz3yk9Za8n5zUF-9wNr7ypSOJK=w408-h306-k-no",
+  "kgmid": "/g/11c1n90mgf",
+  "domain": "starbucks.com",
+  "emails": [],
+  "phones": [],
+  "phonesUncertain": [],
+  "linkedIns": [],
+  "twitters": [],
+  "instagrams": [],
+  "facebooks": [],
+  "youtubes": [],
+  "tiktoks": [],
+  "pinterests": [],
+  "discords": []
+}]
